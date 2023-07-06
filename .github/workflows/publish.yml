@@ -19,20 +19,24 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm install
+        run: make install
+
+      - name: Fetch map data
+        run: make update
+        env:
+          FELT_ACCESS_TOKEN: ${{ secrets.FELT_ACCESS_TOKEN }}
 
       - name: build
         env:
           BASE_URL: "/westlake-timeline/"
         run: |
-          npm run build
-          touch build/.nojekyll
+          make build
 
       - name: Upload Artifacts
         uses: actions/upload-pages-artifact@v1
         with:
           # this should match the `pages` option in your adapter-static options
-          path: "build/"
+          path: "dist/"
 
   deploy:
     needs: build_site

@@ -12,8 +12,10 @@ update:
 
 build:
 	npm run build
+	touch dist/.nojekyll
 
 preview:
 	npm run preview
 
 publish:
+	git push
