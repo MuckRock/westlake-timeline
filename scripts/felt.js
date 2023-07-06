@@ -25,7 +25,7 @@ async function main() {
 
 	const fc = { type: data.type, features: data.features.map(clean).filter(Boolean) };
 
-	fc.features.sort((a, b) => a - b);
+	fc.features = fc.features.sort((a, b) => a.properties.order - b.properties.order);
 
 	process.stdout.write(JSON.stringify(fc, null, 2));
 }
