@@ -8,7 +8,7 @@ install:
 
 update:
 	mkdir -p $(dir $(CONTENT_DEST))
-	./scripts/felt.sh $(MAP_ID) > $(CONTENT_DEST)
+	./scripts/felt.js $(MAP_ID) > $(CONTENT_DEST)
 
 build:
 	npm run build

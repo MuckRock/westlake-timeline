@@ -1,633 +1,1199 @@
 {
-	"features": [
-		{
-			"geometry": {
-				"coordinates": [
-					[
-						[-90.164194, 38.772019],
-						[-90.184194, 38.77434],
-						[-90.186285, 38.76137],
-						[-90.207928, 38.739736],
-						[-90.221768, 38.730127],
-						[-90.252319, 38.718241],
-						[-90.301814, 38.655551],
-						[-90.310855, 38.618218],
-						[-90.320652, 38.594204],
-						[-90.31358, 38.578738],
-						[-90.296945, 38.56228],
-						[-90.272229, 38.547941],
-						[-90.271486, 38.539615],
-						[-90.266914, 38.534152],
-						[-90.258412, 38.532322],
-						[-90.228398, 38.570891],
-						[-90.19544, 38.595885],
-						[-90.181364, 38.620433],
-						[-90.177871, 38.63697],
-						[-90.183128, 38.667591],
-						[-90.193962, 38.686626],
-						[-90.208595, 38.701618],
-						[-90.211945, 38.707573],
-						[-90.212814, 38.717564],
-						[-90.205222, 38.732131],
-						[-90.183438, 38.746825],
-						[-90.164194, 38.772019]
-					]
-				],
-				"type": "Polygon"
-			},
-			"properties": {
-				"felt-clipSource": {
-					"id": "3827-0-0"
-				},
-				"felt-color": "#C93535",
-				"felt-hasLongDescription": false,
-				"felt-id": "b352faa2-2ee7-4dd3-b860-01c4dd82cf12",
-				"felt-locked": false,
-				"felt-ordering": 1687381283066358,
-				"felt-parentId": "424088fc-58a4-4cfb-8577-f4c0b00c66be",
-				"felt-showArea": false,
-				"felt-type": "Polygon",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		},
-		{
-			"geometry": {
-				"coordinates": [
-					[
-						[-90.475896, 38.782309],
-						[-90.476499, 38.780896],
-						[-90.467706, 38.78029],
-						[-90.447737, 38.775465],
-						[-90.450985, 38.773578],
-						[-90.448825, 38.772837],
-						[-90.450508, 38.770912],
-						[-90.447854, 38.768754],
-						[-90.453778, 38.765548],
-						[-90.44988, 38.761241],
-						[-90.453685, 38.759099],
-						[-90.452999, 38.758364],
-						[-90.454868, 38.757291],
-						[-90.454286, 38.756671],
-						[-90.456974, 38.755089],
-						[-90.435327, 38.74704],
-						[-90.439321, 38.743931],
-						[-90.439486, 38.742923],
-						[-90.435992, 38.740284],
-						[-90.432885, 38.739267],
-						[-90.432003, 38.737541],
-						[-90.4298, 38.737442],
-						[-90.430515, 38.735605],
-						[-90.429613, 38.735602],
-						[-90.4296, 38.734764],
-						[-90.430511, 38.734765],
-						[-90.430502, 38.733968],
-						[-90.429508, 38.733967],
-						[-90.429254, 38.729038],
-						[-90.42072, 38.729046],
-						[-90.420751, 38.727034],
-						[-90.419474, 38.727033],
-						[-90.418314, 38.72487],
-						[-90.414051, 38.722734],
-						[-90.405895, 38.722208],
-						[-90.403142, 38.73125],
-						[-90.401127, 38.735071],
-						[-90.398851, 38.736231],
-						[-90.399454, 38.737024],
-						[-90.398642, 38.737501],
-						[-90.391766, 38.733584],
-						[-90.389646, 38.734731],
-						[-90.386165, 38.741831],
-						[-90.382613, 38.741618],
-						[-90.37699, 38.746494],
-						[-90.38064, 38.748617],
-						[-90.3794, 38.748093],
-						[-90.376878, 38.749632],
-						[-90.378459, 38.750911],
-						[-90.377755, 38.751455],
-						[-90.37863, 38.752281],
-						[-90.381777, 38.75115],
-						[-90.383604, 38.752646],
-						[-90.378781, 38.755588],
-						[-90.374893, 38.759273],
-						[-90.388569, 38.760653],
-						[-90.40521, 38.773021],
-						[-90.411998, 38.775069],
-						[-90.415557, 38.77914],
-						[-90.419704, 38.786268],
-						[-90.425951, 38.792357],
-						[-90.424642, 38.793159],
-						[-90.449556, 38.819892],
-						[-90.473188, 38.790978],
-						[-90.475896, 38.782309]
-					]
-				],
-				"type": "Polygon"
-			},
-			"properties": {
-				"felt-clipSource": {
-					"id": "14761-0-0"
-				},
-				"felt-color": "#C93535",
-				"felt-description": "Those piles were repeatedly moved and reburied. To this day, 47,000 tons of radioactive waste is buried in the West Lake Landfill in northern St. Louis County.",
-				"felt-hasLongDescription": false,
-				"felt-id": "dbeda5ee-fff9-4171-905a-ec7c9d9061db",
-				"felt-locked": false,
-				"felt-ordering": 1686932211553636,
-				"felt-parentId": "d04f27d2-063b-4e41-8231-553389554ea6",
-				"felt-showArea": false,
-				"felt-text": "47,000 tons of radioactive waste buried in northern St. Louis County",
-				"felt-type": "Polygon",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		},
-		{
-			"geometry": {
-				"coordinates": [-90.444617, 38.773097],
-				"type": "Point"
-			},
-			"properties": {
-				"felt-clipSource": {},
-				"felt-color": "#C93535",
-				"felt-description": "Federal officials with the Nuclear Regulatory Commission and the Environmental Protection Agency says it didn’t realize contaminated waste — with elevated levels of radiation — was in other areas of the landfill until now.",
-				"felt-hasLongDescription": false,
-				"felt-id": "44f8b743-5edd-4714-962c-6bf83ac148fd",
-				"felt-locked": false,
-				"felt-ordering": 1686942212098791,
-				"felt-parentId": "b353d3b0-9334-4560-a77a-b6b91d0dfbbe",
-				"felt-symbol": "dot",
-				"felt-text": "2023: West Lake Landfill",
-				"felt-type": "Place",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		},
-		{
-			"geometry": {
-				"coordinates": [
-					[
-						[-90.289603, 38.885396],
-						[-90.316275, 38.89216],
-						[-90.334525, 38.887592],
-						[-90.341338, 38.874229],
-						[-90.343859, 38.847329],
-						[-90.360124, 38.82835],
-						[-90.367302, 38.82443],
-						[-90.387611, 38.821805],
-						[-90.413736, 38.82947],
-						[-90.428402, 38.830899],
-						[-90.436653, 38.829796],
-						[-90.447661, 38.824154],
-						[-90.458883, 38.805963],
-						[-90.473915, 38.790052],
-						[-90.486281, 38.761104],
-						[-90.492853, 38.753575],
-						[-90.534199, 38.728753],
-						[-90.530831, 38.700022],
-						[-90.535702, 38.690183],
-						[-90.544714, 38.683701],
-						[-90.551881, 38.681456],
-						[-90.570838, 38.682788],
-						[-90.595096, 38.679957],
-						[-90.607284, 38.682897],
-						[-90.627385, 38.681783],
-						[-90.655693, 38.689571],
-						[-90.675396, 38.681565],
-						[-90.677059, 38.669759],
-						[-90.680155, 38.665131],
-						[-90.702326, 38.658211],
-						[-90.706134, 38.646778],
-						[-90.725065, 38.640808],
-						[-90.73235, 38.641537],
-						[-90.736224, 38.465617],
-						[-90.732025, 38.482171],
-						[-90.723706, 38.482252],
-						[-90.714385, 38.475428],
-						[-90.717975, 38.469122],
-						[-90.707457, 38.472219],
-						[-90.696755, 38.471924],
-						[-90.687228, 38.459223],
-						[-90.687892, 38.453703],
-						[-90.685791, 38.452825],
-						[-90.68082, 38.45831],
-						[-90.676791, 38.455677],
-						[-90.678499, 38.451926],
-						[-90.686403, 38.447476],
-						[-90.675074, 38.4463],
-						[-90.663649, 38.449139],
-						[-90.654543, 38.456734],
-						[-90.661346, 38.479107],
-						[-90.655511, 38.487001],
-						[-90.649639, 38.488346],
-						[-90.633623, 38.485752],
-						[-90.627834, 38.476705],
-						[-90.613804, 38.471334],
-						[-90.602788, 38.479505],
-						[-90.591251, 38.501771],
-						[-90.40498, 38.500881],
-						[-90.407362, 38.483995],
-						[-90.412165, 38.480913],
-						[-90.422737, 38.482545],
-						[-90.412031, 38.454172],
-						[-90.401703, 38.453403],
-						[-90.393487, 38.458386],
-						[-90.390668, 38.455422],
-						[-90.391174, 38.450737],
-						[-90.35374, 38.458462],
-						[-90.336334, 38.453848],
-						[-90.336095, 38.447623],
-						[-90.348471, 38.431688],
-						[-90.346672, 38.418097],
-						[-90.348568, 38.406818],
-						[-90.34309, 38.386413],
-						[-90.292772, 38.42758],
-						[-90.282816, 38.451782],
-						[-90.278868, 38.474901],
-						[-90.265147, 38.520947],
-						[-90.258412, 38.532322],
-						[-90.266914, 38.534152],
-						[-90.271486, 38.539615],
-						[-90.273089, 38.548894],
-						[-90.289774, 38.557043],
-						[-90.307732, 38.572619],
-						[-90.31358, 38.578738],
-						[-90.320652, 38.594204],
-						[-90.310855, 38.618218],
-						[-90.301814, 38.655551],
-						[-90.252319, 38.718241],
-						[-90.221768, 38.730127],
-						[-90.207928, 38.739736],
-						[-90.186285, 38.76137],
-						[-90.184194, 38.77434],
-						[-90.164194, 38.772019],
-						[-90.156454, 38.779373],
-						[-90.125099, 38.796455],
-						[-90.117707, 38.805748],
-						[-90.125731, 38.820802],
-						[-90.1419, 38.830364],
-						[-90.155396, 38.830005],
-						[-90.180706, 38.817459],
-						[-90.196971, 38.820844],
-						[-90.224458, 38.837961],
-						[-90.262545, 38.854548],
-						[-90.276289, 38.873018],
-						[-90.289603, 38.885396]
-					]
-				],
-				"type": "Polygon"
-			},
-			"properties": {
-				"felt-clipSource": {
-					"id": "3750-0-0"
-				},
-				"felt-color": "#C93535",
-				"felt-description": "Shortly after World War II, the federal government dumped massive piles of radioactive waste from the Manhattan Project in several areas of greater St. Louis, including near the airport, in Weldon Spring and along Latty Avenue next to Coldwater Creek.",
-				"felt-hasLongDescription": false,
-				"felt-id": "25c8b27c-e3a3-4c51-ad49-971844b302e4",
-				"felt-locked": false,
-				"felt-ordering": 1686932211663636,
-				"felt-parentId": "424088fc-58a4-4cfb-8577-f4c0b00c66be",
-				"felt-showArea": false,
-				"felt-text": "Radioactive waste spreads across St. Louis",
-				"felt-type": "Polygon",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		},
-		{
-			"geometry": {
-				"coordinates": [-90.364408, 38.747188],
-				"type": "Point"
-			},
-			"properties": {
-				"felt-clipSource": {},
-				"felt-color": "#C93535",
-				"felt-description": "It’s discovered that contaminated soil is carried into Coldwater Creek through erosion at the airport. Then “low-level leakage” is found from buried material at the airport.",
-				"felt-hasLongDescription": false,
-				"felt-id": "bb3047bc-5b24-42a8-8f3d-cc6cd9152873",
-				"felt-locked": false,
-				"felt-ordering": 1686932211413636,
-				"felt-parentId": "bfc26d89-dd34-4425-80fe-ce4ce57816fb",
-				"felt-symbol": "dot",
-				"felt-text": "1985-86: St. Louis Airport",
-				"felt-type": "Place",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		},
-		{
-			"geometry": {
-				"coordinates": [-90.445009, 38.772791],
-				"type": "Point"
-			},
-			"properties": {
-				"felt-clipSource": {},
-				"felt-color": "#C93535",
-				"felt-description": "The federal government designates the West Lake Landfill a federal Superfund cleanup site. ",
-				"felt-hasLongDescription": false,
-				"felt-id": "b9afe940-5c07-4896-9065-f529d9abdd3d",
-				"felt-locked": false,
-				"felt-ordering": 1686932210910302,
-				"felt-parentId": "41eaad39-cb5e-4b2e-8603-5d670097a286",
-				"felt-symbol": "dot",
-				"felt-text": "1990: West Lake Landfill",
-				"felt-type": "Place",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		},
-		{
-			"geometry": {
-				"coordinates": [-90.359097, 38.761464],
-				"type": "Point"
-			},
-			"properties": {
-				"felt-clipSource": {},
-				"felt-color": "#C93535",
-				"felt-description": "The U.S. Department of Energy acknowledges erosion of the airport site “resulted in the transport of slight contamination to the drainage ditch surrounding the site outside the fence and to the bottom sediments of Coldwater Creek.”",
-				"felt-hasLongDescription": false,
-				"felt-id": "32b77631-7732-4e89-b3a8-c9788eca0981",
-				"felt-locked": false,
-				"felt-ordering": 1686932211433636,
-				"felt-parentId": "57acc7b7-2ffc-4f25-bfbb-7516f95cac18",
-				"felt-symbol": "dot",
-				"felt-text": "1979: Coldwater Creek",
-				"felt-type": "Place",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		},
-		{
-			"geometry": {
-				"coordinates": [-90.444748, 38.772893],
-				"type": "Point"
-			},
-			"properties": {
-				"felt-clipSource": {},
-				"felt-color": "#C93535",
-				"felt-description": "Sampling shows slightly elevated thorium levels in “nominally-uncontaminated samples.” If this elevation of thorium-230 is confirmed by additional testing, it suggests a “low-level but widespread contribution from the West Lake landfill waste.” ",
-				"felt-hasLongDescription": false,
-				"felt-id": "cb793d1c-7293-4bdd-aa6b-e3c620e0bdf4",
-				"felt-locked": false,
-				"felt-ordering": 1686932210719191,
-				"felt-parentId": "598bc3ee-4377-4443-9cfa-a03db1515449",
-				"felt-symbol": "dot",
-				"felt-text": "1992: West Lake Landfill",
-				"felt-type": "Place",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		},
-		{
-			"geometry": {
-				"coordinates": [-90.445264, 38.772685],
-				"type": "Point"
-			},
-			"properties": {
-				"felt-color": "#C93535",
-				"felt-description": "Despite evidence radioactive waste could spread and pose a risk to human health, federal agencies repeatedly downplayed the danger or failed to investigate it fully.\n\nThis allowed the waste to spread even further, putting St. Louis residents in danger. ",
-				"felt-hasLongDescription": false,
-				"felt-id": "bbae0c30-1f9e-44a6-9db3-0584d5747289",
-				"felt-locked": false,
-				"felt-ordering": 1686932211513636,
-				"felt-parentId": "284a1415-7243-491f-b9d7-ece3c0a9dd91",
-				"felt-symbol": "dot",
-				"felt-text": "West Lake Landfill",
-				"felt-type": "Place",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		},
-		{
-			"geometry": {
-				"coordinates": [-90.361582, 38.743942],
-				"type": "Point"
-			},
-			"properties": {
-				"felt-color": "#C93535",
-				"felt-description": "1946 – After World War II, the federal government acquired a tract of land near the St. Louis airport to store byproduct residue from processing in Mallinckrodt’s plants. The material was left in the open, exposed to the rain and wind. Deteriorating drums of radioactive material threatened to pollute nearby Coldwater Creek as early as 1949, but Mallinckrodt determined the risk to its workers that would come from moving the drums was too great. Most of the material was removed from the site in the 1960s, but uranium, thorium and radium remained buried on the property. The airport was remediated in the 2000s.",
-				"felt-hasLongDescription": true,
-				"felt-id": "20f03329-bff7-45f0-8f9f-5b37ee7e0ef4",
-				"felt-locked": false,
-				"felt-ordering": 1686932211493636,
-				"felt-parentId": "fe21d6df-bdba-41ce-9a1b-efcea67b1c21",
-				"felt-symbol": "dot",
-				"felt-text": "1949: St. Louis Airport",
-				"felt-type": "Place",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		},
-		{
-			"geometry": {
-				"coordinates": [
-					[
-						[-90.475896, 38.782309],
-						[-90.476499, 38.780896],
-						[-90.467706, 38.78029],
-						[-90.447737, 38.775465],
-						[-90.450985, 38.773578],
-						[-90.448825, 38.772837],
-						[-90.450508, 38.770912],
-						[-90.447854, 38.768754],
-						[-90.453778, 38.765548],
-						[-90.44988, 38.761241],
-						[-90.453685, 38.759099],
-						[-90.452999, 38.758364],
-						[-90.454868, 38.757291],
-						[-90.454286, 38.756671],
-						[-90.456974, 38.755089],
-						[-90.435327, 38.74704],
-						[-90.439321, 38.743931],
-						[-90.439486, 38.742923],
-						[-90.438754, 38.743068],
-						[-90.435992, 38.740284],
-						[-90.432885, 38.739267],
-						[-90.433161, 38.738819],
-						[-90.432002, 38.738411],
-						[-90.432003, 38.737541],
-						[-90.4298, 38.737442],
-						[-90.430515, 38.735605],
-						[-90.429613, 38.735602],
-						[-90.4296, 38.734764],
-						[-90.430511, 38.734765],
-						[-90.430502, 38.733968],
-						[-90.429508, 38.733967],
-						[-90.429254, 38.729038],
-						[-90.42072, 38.729046],
-						[-90.420751, 38.727034],
-						[-90.419474, 38.727033],
-						[-90.417932, 38.725268],
-						[-90.418314, 38.72487],
-						[-90.414472, 38.723455],
-						[-90.414051, 38.722734],
-						[-90.405895, 38.722208],
-						[-90.403142, 38.73125],
-						[-90.401127, 38.735071],
-						[-90.398851, 38.736231],
-						[-90.399454, 38.737024],
-						[-90.398642, 38.737501],
-						[-90.391766, 38.733584],
-						[-90.389646, 38.734731],
-						[-90.386165, 38.741831],
-						[-90.382613, 38.741618],
-						[-90.37699, 38.746494],
-						[-90.38064, 38.748617],
-						[-90.3794, 38.748093],
-						[-90.376878, 38.749632],
-						[-90.378459, 38.750911],
-						[-90.377755, 38.751455],
-						[-90.37863, 38.752281],
-						[-90.380112, 38.751213],
-						[-90.381043, 38.75196],
-						[-90.381777, 38.75115],
-						[-90.383604, 38.752646],
-						[-90.378781, 38.755588],
-						[-90.374893, 38.759273],
-						[-90.379703, 38.759969],
-						[-90.384752, 38.759745],
-						[-90.388569, 38.760653],
-						[-90.40521, 38.773021],
-						[-90.40814, 38.774373],
-						[-90.411998, 38.775069],
-						[-90.415557, 38.77914],
-						[-90.419704, 38.786268],
-						[-90.425951, 38.792357],
-						[-90.424642, 38.793159],
-						[-90.449556, 38.819892],
-						[-90.473188, 38.790978],
-						[-90.475896, 38.782309]
-					]
-				],
-				"type": "Polygon"
-			},
-			"properties": {
-				"felt-clipSource": {
-					"id": "14761-0-0"
-				},
-				"felt-color": "#C93535",
-				"felt-description": "Despite evidence radioactive waste could spread and pose a risk to human health, federal agencies with authority over the numerous contaminated sites around St. Louis repeatedly downplayed the danger or failed to investigate it fully.\n\nThis allowed the waste to spread even further, putting St. Louis residents in danger. \n",
-				"felt-hasLongDescription": true,
-				"felt-id": "e60f267d-20cb-45e3-aaef-8daf88cb0d79",
-				"felt-locked": false,
-				"felt-ordering": 1686932211523636,
-				"felt-parentId": "284a1415-7243-491f-b9d7-ece3c0a9dd91",
-				"felt-showArea": false,
-				"felt-text": "Residents continue to be in danger",
-				"felt-type": "Polygon",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		},
-		{
-			"geometry": {
-				"coordinates": [-90.223569, 38.829672],
-				"type": "Point"
-			},
-			"properties": {
-				"felt-clipSource": {},
-				"felt-color": "#C93535",
-				"felt-description": "Missouri’s Department of Natural Resources says that the waste is in direct contact with groundwater and risks contaminating the Missouri River. The Nuclear Regulatory Commission finds radiation in the groundwater but below EPA drinking level standard.",
-				"felt-hasLongDescription": false,
-				"felt-id": "a32ccd02-17e8-434c-aa6c-60a0e51110cb",
-				"felt-locked": false,
-				"felt-ordering": 1686932211393636,
-				"felt-parentId": "fea434b7-b4fb-47a6-a1ec-6608561065b2",
-				"felt-symbol": "dot",
-				"felt-text": "1987-88: Coldwater Creek leading to the Missouri River",
-				"felt-type": "Place",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		},
-		{
-			"geometry": {
-				"coordinates": [-90.445178, 38.772718],
-				"type": "Point"
-			},
-			"properties": {
-				"felt-clipSource": {},
-				"felt-color": "#C93535",
-				"felt-description": "The Nuclear Regulatory Commission inquires internally about whether it could take action against the Cotter Corp. Its general counsel says that the 14 years where it didn’t act would make it hard to bring a case against the company.",
-				"felt-hasLongDescription": false,
-				"felt-id": "b01d0137-54f2-44d1-92f0-2f8960700fb5",
-				"felt-locked": false,
-				"felt-ordering": 1686932211128636,
-				"felt-parentId": "66306816-0027-4094-b0a8-59d2241ce7ed",
-				"felt-symbol": "dot",
-				"felt-text": "1988: West Lake Landfill",
-				"felt-type": "Place",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		},
-		{
-			"geometry": {
-				"coordinates": [-90.3506, 38.76814],
-				"type": "Point"
-			},
-			"properties": {
-				"felt-color": "#C93535",
-				"felt-description": "The Atomic Energy Commission releases the Cotter Corp., a contractor paid to manage the sites, from its permit for the Latty Avenue location. A draft of the AEC’s letter to Cotter includes a requirement that Cotter study the potential for dangerous exposures, but dropped that from the final letter it sent.",
-				"felt-hasLongDescription": false,
-				"felt-id": "0f792a3e-a52c-4eab-9564-67441e5b6fea",
-				"felt-locked": false,
-				"felt-ordering": 1686932211473636,
-				"felt-parentId": "2bcd76b6-4d5d-4522-a4ad-92d086abb999",
-				"felt-symbol": "dot",
-				"felt-text": "1974: Latty Avenue",
-				"felt-type": "Place",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		},
-		{
-			"geometry": {
-				"coordinates": [-90.444748, 38.773097],
-				"type": "Point"
-			},
-			"properties": {
-				"felt-clipSource": {},
-				"felt-color": "#C93535",
-				"felt-description": "Waste had already shifted outside the boundaries of the landfill.",
-				"felt-hasLongDescription": false,
-				"felt-id": "81a69321-d106-4533-90e7-9106bd34544c",
-				"felt-locked": false,
-				"felt-ordering": 1686932210536969,
-				"felt-parentId": "076e01e2-08eb-453e-a63a-a857a0d9dde9",
-				"felt-symbol": "dot",
-				"felt-text": "1994: West Lake Landfill",
-				"felt-type": "Place",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		},
-		{
-			"geometry": {
-				"coordinates": [-90.445178, 38.772718],
-				"type": "Point"
-			},
-			"properties": {
-				"felt-clipSource": {},
-				"felt-color": "#C93535",
-				"felt-description": "The Nuclear Regulatory Commission, which supplanted the Atomic Energy Commission in 1975 to oversee the site, determines that the material in the West Lake Landfill “does not pose an immediate radiological health hazard to the public.”",
-				"felt-hasLongDescription": false,
-				"felt-id": "38b995f0-d675-4614-ad03-977be99988cc",
-				"felt-locked": false,
-				"felt-ordering": 1686932211453636,
-				"felt-parentId": "a86e328d-ec8a-4584-a609-fc68dd64af34",
-				"felt-symbol": "dot",
-				"felt-text": "1975-76: West Lake Landfill",
-				"felt-type": "Place",
-				"felt-widthScale": 1
-			},
-			"type": "Feature"
-		}
-	],
-	"metadata": {
-		"felt-id": "6b198c72-848c-45e3-846b-69e067c152fc",
-		"felt-version": 1
-	},
-	"type": "FeatureCollection"
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -90.475896,
+              38.782309
+            ],
+            [
+              -90.476499,
+              38.780896
+            ],
+            [
+              -90.467706,
+              38.78029
+            ],
+            [
+              -90.447737,
+              38.775465
+            ],
+            [
+              -90.450985,
+              38.773578
+            ],
+            [
+              -90.448825,
+              38.772837
+            ],
+            [
+              -90.450508,
+              38.770912
+            ],
+            [
+              -90.447854,
+              38.768754
+            ],
+            [
+              -90.453778,
+              38.765548
+            ],
+            [
+              -90.44988,
+              38.761241
+            ],
+            [
+              -90.453685,
+              38.759099
+            ],
+            [
+              -90.452999,
+              38.758364
+            ],
+            [
+              -90.454868,
+              38.757291
+            ],
+            [
+              -90.454286,
+              38.756671
+            ],
+            [
+              -90.456974,
+              38.755089
+            ],
+            [
+              -90.435327,
+              38.74704
+            ],
+            [
+              -90.439321,
+              38.743931
+            ],
+            [
+              -90.439486,
+              38.742923
+            ],
+            [
+              -90.435992,
+              38.740284
+            ],
+            [
+              -90.432885,
+              38.739267
+            ],
+            [
+              -90.432003,
+              38.737541
+            ],
+            [
+              -90.4298,
+              38.737442
+            ],
+            [
+              -90.430515,
+              38.735605
+            ],
+            [
+              -90.429613,
+              38.735602
+            ],
+            [
+              -90.4296,
+              38.734764
+            ],
+            [
+              -90.430511,
+              38.734765
+            ],
+            [
+              -90.430502,
+              38.733968
+            ],
+            [
+              -90.429508,
+              38.733967
+            ],
+            [
+              -90.429254,
+              38.729038
+            ],
+            [
+              -90.42072,
+              38.729046
+            ],
+            [
+              -90.420751,
+              38.727034
+            ],
+            [
+              -90.419474,
+              38.727033
+            ],
+            [
+              -90.418314,
+              38.72487
+            ],
+            [
+              -90.414051,
+              38.722734
+            ],
+            [
+              -90.405895,
+              38.722208
+            ],
+            [
+              -90.403142,
+              38.73125
+            ],
+            [
+              -90.401127,
+              38.735071
+            ],
+            [
+              -90.398851,
+              38.736231
+            ],
+            [
+              -90.399454,
+              38.737024
+            ],
+            [
+              -90.398642,
+              38.737501
+            ],
+            [
+              -90.391766,
+              38.733584
+            ],
+            [
+              -90.389646,
+              38.734731
+            ],
+            [
+              -90.386165,
+              38.741831
+            ],
+            [
+              -90.382613,
+              38.741618
+            ],
+            [
+              -90.37699,
+              38.746494
+            ],
+            [
+              -90.38064,
+              38.748617
+            ],
+            [
+              -90.3794,
+              38.748093
+            ],
+            [
+              -90.376878,
+              38.749632
+            ],
+            [
+              -90.378459,
+              38.750911
+            ],
+            [
+              -90.377755,
+              38.751455
+            ],
+            [
+              -90.37863,
+              38.752281
+            ],
+            [
+              -90.381777,
+              38.75115
+            ],
+            [
+              -90.383604,
+              38.752646
+            ],
+            [
+              -90.378781,
+              38.755588
+            ],
+            [
+              -90.374893,
+              38.759273
+            ],
+            [
+              -90.388569,
+              38.760653
+            ],
+            [
+              -90.40521,
+              38.773021
+            ],
+            [
+              -90.411998,
+              38.775069
+            ],
+            [
+              -90.415557,
+              38.77914
+            ],
+            [
+              -90.419704,
+              38.786268
+            ],
+            [
+              -90.425951,
+              38.792357
+            ],
+            [
+              -90.424642,
+              38.793159
+            ],
+            [
+              -90.449556,
+              38.819892
+            ],
+            [
+              -90.473188,
+              38.790978
+            ],
+            [
+              -90.475896,
+              38.782309
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "title": "47,000 tons of radioactive waste buried in northern St. Louis County",
+        "description": "Those piles were repeatedly moved and reburied. To this day, 47,000 tons of radioactive waste is buried in the West Lake Landfill in northern St. Louis County."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.444617,
+          38.773097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "2023: West Lake Landfill",
+        "description": "Federal officials with the Nuclear Regulatory Commission and the Environmental Protection Agency says it didn’t realize contaminated waste — with elevated levels of radiation — was in other areas of the landfill until now."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -90.289603,
+              38.885396
+            ],
+            [
+              -90.316275,
+              38.89216
+            ],
+            [
+              -90.334525,
+              38.887592
+            ],
+            [
+              -90.341338,
+              38.874229
+            ],
+            [
+              -90.343859,
+              38.847329
+            ],
+            [
+              -90.360124,
+              38.82835
+            ],
+            [
+              -90.367302,
+              38.82443
+            ],
+            [
+              -90.387611,
+              38.821805
+            ],
+            [
+              -90.413736,
+              38.82947
+            ],
+            [
+              -90.428402,
+              38.830899
+            ],
+            [
+              -90.436653,
+              38.829796
+            ],
+            [
+              -90.447661,
+              38.824154
+            ],
+            [
+              -90.458883,
+              38.805963
+            ],
+            [
+              -90.473915,
+              38.790052
+            ],
+            [
+              -90.486281,
+              38.761104
+            ],
+            [
+              -90.492853,
+              38.753575
+            ],
+            [
+              -90.534199,
+              38.728753
+            ],
+            [
+              -90.530831,
+              38.700022
+            ],
+            [
+              -90.535702,
+              38.690183
+            ],
+            [
+              -90.544714,
+              38.683701
+            ],
+            [
+              -90.551881,
+              38.681456
+            ],
+            [
+              -90.570838,
+              38.682788
+            ],
+            [
+              -90.595096,
+              38.679957
+            ],
+            [
+              -90.607284,
+              38.682897
+            ],
+            [
+              -90.627385,
+              38.681783
+            ],
+            [
+              -90.655693,
+              38.689571
+            ],
+            [
+              -90.675396,
+              38.681565
+            ],
+            [
+              -90.677059,
+              38.669759
+            ],
+            [
+              -90.680155,
+              38.665131
+            ],
+            [
+              -90.702326,
+              38.658211
+            ],
+            [
+              -90.706134,
+              38.646778
+            ],
+            [
+              -90.725065,
+              38.640808
+            ],
+            [
+              -90.73235,
+              38.641537
+            ],
+            [
+              -90.736224,
+              38.465617
+            ],
+            [
+              -90.732025,
+              38.482171
+            ],
+            [
+              -90.723706,
+              38.482252
+            ],
+            [
+              -90.714385,
+              38.475428
+            ],
+            [
+              -90.717975,
+              38.469122
+            ],
+            [
+              -90.707457,
+              38.472219
+            ],
+            [
+              -90.696755,
+              38.471924
+            ],
+            [
+              -90.687228,
+              38.459223
+            ],
+            [
+              -90.687892,
+              38.453703
+            ],
+            [
+              -90.685791,
+              38.452825
+            ],
+            [
+              -90.68082,
+              38.45831
+            ],
+            [
+              -90.676791,
+              38.455677
+            ],
+            [
+              -90.678499,
+              38.451926
+            ],
+            [
+              -90.686403,
+              38.447476
+            ],
+            [
+              -90.675074,
+              38.4463
+            ],
+            [
+              -90.663649,
+              38.449139
+            ],
+            [
+              -90.654543,
+              38.456734
+            ],
+            [
+              -90.661346,
+              38.479107
+            ],
+            [
+              -90.655511,
+              38.487001
+            ],
+            [
+              -90.649639,
+              38.488346
+            ],
+            [
+              -90.633623,
+              38.485752
+            ],
+            [
+              -90.627834,
+              38.476705
+            ],
+            [
+              -90.613804,
+              38.471334
+            ],
+            [
+              -90.602788,
+              38.479505
+            ],
+            [
+              -90.591251,
+              38.501771
+            ],
+            [
+              -90.40498,
+              38.500881
+            ],
+            [
+              -90.407362,
+              38.483995
+            ],
+            [
+              -90.412165,
+              38.480913
+            ],
+            [
+              -90.422737,
+              38.482545
+            ],
+            [
+              -90.412031,
+              38.454172
+            ],
+            [
+              -90.401703,
+              38.453403
+            ],
+            [
+              -90.393487,
+              38.458386
+            ],
+            [
+              -90.390668,
+              38.455422
+            ],
+            [
+              -90.391174,
+              38.450737
+            ],
+            [
+              -90.35374,
+              38.458462
+            ],
+            [
+              -90.336334,
+              38.453848
+            ],
+            [
+              -90.336095,
+              38.447623
+            ],
+            [
+              -90.348471,
+              38.431688
+            ],
+            [
+              -90.346672,
+              38.418097
+            ],
+            [
+              -90.348568,
+              38.406818
+            ],
+            [
+              -90.34309,
+              38.386413
+            ],
+            [
+              -90.292772,
+              38.42758
+            ],
+            [
+              -90.282816,
+              38.451782
+            ],
+            [
+              -90.278868,
+              38.474901
+            ],
+            [
+              -90.265147,
+              38.520947
+            ],
+            [
+              -90.258412,
+              38.532322
+            ],
+            [
+              -90.266914,
+              38.534152
+            ],
+            [
+              -90.271486,
+              38.539615
+            ],
+            [
+              -90.273089,
+              38.548894
+            ],
+            [
+              -90.289774,
+              38.557043
+            ],
+            [
+              -90.307732,
+              38.572619
+            ],
+            [
+              -90.31358,
+              38.578738
+            ],
+            [
+              -90.320652,
+              38.594204
+            ],
+            [
+              -90.310855,
+              38.618218
+            ],
+            [
+              -90.301814,
+              38.655551
+            ],
+            [
+              -90.252319,
+              38.718241
+            ],
+            [
+              -90.221768,
+              38.730127
+            ],
+            [
+              -90.207928,
+              38.739736
+            ],
+            [
+              -90.186285,
+              38.76137
+            ],
+            [
+              -90.184194,
+              38.77434
+            ],
+            [
+              -90.164194,
+              38.772019
+            ],
+            [
+              -90.156454,
+              38.779373
+            ],
+            [
+              -90.125099,
+              38.796455
+            ],
+            [
+              -90.117707,
+              38.805748
+            ],
+            [
+              -90.125731,
+              38.820802
+            ],
+            [
+              -90.1419,
+              38.830364
+            ],
+            [
+              -90.155396,
+              38.830005
+            ],
+            [
+              -90.180706,
+              38.817459
+            ],
+            [
+              -90.196971,
+              38.820844
+            ],
+            [
+              -90.224458,
+              38.837961
+            ],
+            [
+              -90.262545,
+              38.854548
+            ],
+            [
+              -90.276289,
+              38.873018
+            ],
+            [
+              -90.289603,
+              38.885396
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "title": "Radioactive waste spreads across St. Louis",
+        "description": "Shortly after World War II, the federal government dumped massive piles of radioactive waste from the Manhattan Project in several areas of greater St. Louis, including near the airport, in Weldon Spring and along Latty Avenue next to Coldwater Creek."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.364408,
+          38.747188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "1985-86: St. Louis Airport",
+        "description": "It’s discovered that contaminated soil is carried into Coldwater Creek through erosion at the airport. Then “low-level leakage” is found from buried material at the airport."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.445009,
+          38.772791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "1990: West Lake Landfill",
+        "description": "The federal government designates the West Lake Landfill a federal Superfund cleanup site. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.359097,
+          38.761464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "1979: Coldwater Creek",
+        "description": "The U.S. Department of Energy acknowledges erosion of the airport site “resulted in the transport of slight contamination to the drainage ditch surrounding the site outside the fence and to the bottom sediments of Coldwater Creek.”"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.444748,
+          38.772893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "1992: West Lake Landfill",
+        "description": "Sampling shows slightly elevated thorium levels in “nominally-uncontaminated samples.” If this elevation of thorium-230 is confirmed by additional testing, it suggests a “low-level but widespread contribution from the West Lake landfill waste.” "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.445264,
+          38.772685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "West Lake Landfill",
+        "description": "Despite evidence radioactive waste could spread and pose a risk to human health, federal agencies repeatedly downplayed the danger or failed to investigate it fully.\n\nThis allowed the waste to spread even further, putting St. Louis residents in danger. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.361582,
+          38.743942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "1949: St. Louis Airport",
+        "description": "1946 – After World War II, the federal government acquired a tract of land near the St. Louis airport to store byproduct residue from processing in Mallinckrodt’s plants. The material was left in the open, exposed to the rain and wind. Deteriorating drums of radioactive material threatened to pollute nearby Coldwater Creek as early as 1949, but Mallinckrodt determined the risk to its workers that would come from moving the drums was too great. Most of the material was removed from the site in the 1960s, but uranium, thorium and radium remained buried on the property. The airport was remediated in the 2000s."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -90.475896,
+              38.782309
+            ],
+            [
+              -90.476499,
+              38.780896
+            ],
+            [
+              -90.467706,
+              38.78029
+            ],
+            [
+              -90.447737,
+              38.775465
+            ],
+            [
+              -90.450985,
+              38.773578
+            ],
+            [
+              -90.448825,
+              38.772837
+            ],
+            [
+              -90.450508,
+              38.770912
+            ],
+            [
+              -90.447854,
+              38.768754
+            ],
+            [
+              -90.453778,
+              38.765548
+            ],
+            [
+              -90.44988,
+              38.761241
+            ],
+            [
+              -90.453685,
+              38.759099
+            ],
+            [
+              -90.452999,
+              38.758364
+            ],
+            [
+              -90.454868,
+              38.757291
+            ],
+            [
+              -90.454286,
+              38.756671
+            ],
+            [
+              -90.456974,
+              38.755089
+            ],
+            [
+              -90.435327,
+              38.74704
+            ],
+            [
+              -90.439321,
+              38.743931
+            ],
+            [
+              -90.439486,
+              38.742923
+            ],
+            [
+              -90.438754,
+              38.743068
+            ],
+            [
+              -90.435992,
+              38.740284
+            ],
+            [
+              -90.432885,
+              38.739267
+            ],
+            [
+              -90.433161,
+              38.738819
+            ],
+            [
+              -90.432002,
+              38.738411
+            ],
+            [
+              -90.432003,
+              38.737541
+            ],
+            [
+              -90.4298,
+              38.737442
+            ],
+            [
+              -90.430515,
+              38.735605
+            ],
+            [
+              -90.429613,
+              38.735602
+            ],
+            [
+              -90.4296,
+              38.734764
+            ],
+            [
+              -90.430511,
+              38.734765
+            ],
+            [
+              -90.430502,
+              38.733968
+            ],
+            [
+              -90.429508,
+              38.733967
+            ],
+            [
+              -90.429254,
+              38.729038
+            ],
+            [
+              -90.42072,
+              38.729046
+            ],
+            [
+              -90.420751,
+              38.727034
+            ],
+            [
+              -90.419474,
+              38.727033
+            ],
+            [
+              -90.417932,
+              38.725268
+            ],
+            [
+              -90.418314,
+              38.72487
+            ],
+            [
+              -90.414472,
+              38.723455
+            ],
+            [
+              -90.414051,
+              38.722734
+            ],
+            [
+              -90.405895,
+              38.722208
+            ],
+            [
+              -90.403142,
+              38.73125
+            ],
+            [
+              -90.401127,
+              38.735071
+            ],
+            [
+              -90.398851,
+              38.736231
+            ],
+            [
+              -90.399454,
+              38.737024
+            ],
+            [
+              -90.398642,
+              38.737501
+            ],
+            [
+              -90.391766,
+              38.733584
+            ],
+            [
+              -90.389646,
+              38.734731
+            ],
+            [
+              -90.386165,
+              38.741831
+            ],
+            [
+              -90.382613,
+              38.741618
+            ],
+            [
+              -90.37699,
+              38.746494
+            ],
+            [
+              -90.38064,
+              38.748617
+            ],
+            [
+              -90.3794,
+              38.748093
+            ],
+            [
+              -90.376878,
+              38.749632
+            ],
+            [
+              -90.378459,
+              38.750911
+            ],
+            [
+              -90.377755,
+              38.751455
+            ],
+            [
+              -90.37863,
+              38.752281
+            ],
+            [
+              -90.380112,
+              38.751213
+            ],
+            [
+              -90.381043,
+              38.75196
+            ],
+            [
+              -90.381777,
+              38.75115
+            ],
+            [
+              -90.383604,
+              38.752646
+            ],
+            [
+              -90.378781,
+              38.755588
+            ],
+            [
+              -90.374893,
+              38.759273
+            ],
+            [
+              -90.379703,
+              38.759969
+            ],
+            [
+              -90.384752,
+              38.759745
+            ],
+            [
+              -90.388569,
+              38.760653
+            ],
+            [
+              -90.40521,
+              38.773021
+            ],
+            [
+              -90.40814,
+              38.774373
+            ],
+            [
+              -90.411998,
+              38.775069
+            ],
+            [
+              -90.415557,
+              38.77914
+            ],
+            [
+              -90.419704,
+              38.786268
+            ],
+            [
+              -90.425951,
+              38.792357
+            ],
+            [
+              -90.424642,
+              38.793159
+            ],
+            [
+              -90.449556,
+              38.819892
+            ],
+            [
+              -90.473188,
+              38.790978
+            ],
+            [
+              -90.475896,
+              38.782309
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "title": "Residents continue to be in danger",
+        "description": "Despite evidence radioactive waste could spread and pose a risk to human health, federal agencies with authority over the numerous contaminated sites around St. Louis repeatedly downplayed the danger or failed to investigate it fully.\n\nThis allowed the waste to spread even further, putting St. Louis residents in danger. \n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.223569,
+          38.829672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "1987-88: Coldwater Creek leading to the Missouri River",
+        "description": "Missouri’s Department of Natural Resources says that the waste is in direct contact with groundwater and risks contaminating the Missouri River. The Nuclear Regulatory Commission finds radiation in the groundwater but below EPA drinking level standard."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.445178,
+          38.772718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "1988: West Lake Landfill",
+        "description": "The Nuclear Regulatory Commission inquires internally about whether it could take action against the Cotter Corp. Its general counsel says that the 14 years where it didn’t act would make it hard to bring a case against the company."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.3506,
+          38.76814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "1974: Latty Avenue",
+        "description": "The Atomic Energy Commission releases the Cotter Corp., a contractor paid to manage the sites, from its permit for the Latty Avenue location. A draft of the AEC’s letter to Cotter includes a requirement that Cotter study the potential for dangerous exposures, but dropped that from the final letter it sent."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.444748,
+          38.773097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "1994: West Lake Landfill",
+        "description": "Waste had already shifted outside the boundaries of the landfill."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.445178,
+          38.772718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "1975-76: West Lake Landfill",
+        "description": "The Nuclear Regulatory Commission, which supplanted the Atomic Energy Commission in 1975 to oversee the site, determines that the material in the West Lake Landfill “does not pose an immediate radiological health hazard to the public.”"
+      }
+    }
+  ]
 }

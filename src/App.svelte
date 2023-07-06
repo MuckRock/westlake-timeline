@@ -1,4 +1,5 @@
 <script>
+	import "mapbox-gl/dist/mapbox-gl.css";
 	import mapboxgl from "mapbox-gl";
 	import Ulysses from "ulysses-js";
 
@@ -22,8 +23,12 @@
 			style,
 			accessToken: import.meta.env.VITE_MAPBOX_ACCESS_TOKEN,
 			interactive: false,
-		});
+		}).on("load", onLoad);
 	});
+
+	function onLoad() {
+		map.resize();
+	}
 </script>
 
 <div class="stick-this">
@@ -34,8 +39,8 @@
 	{#each steps.features as feature}
 		{@const p = feature.properties}
 		<div class="step">
-			<h2>{p["felt-text"]}</h2>
-			<p>{p["felt-description"]}</p>
+			<h2>{p.title}</h2>
+			<p>{p.description}</p>
 		</div>
 	{/each}
 </div>
@@ -44,7 +49,8 @@
 	.stick-this {
 		position: sticky;
 		top: 0;
-		height: 100vh;
+		height: 70vh;
+		width: 100%;
 	}
 
 	.map {
@@ -62,7 +68,7 @@
 	}
 
 	.step {
-		background-color: rgba(0, 0, 0, 0.5);
+		background-color: rgba(0, 0, 0, 0.75);
 		color: white;
 		padding: 1em;
 		margin-bottom: 85vh;
