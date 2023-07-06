@@ -43,7 +43,7 @@
 	});
 
 	function onStep({ step, feature }) {
-		console.log(feature);
+		// console.log(feature);
 	}
 
 	function onLoad() {

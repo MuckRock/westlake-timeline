@@ -595,129 +595,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          [
-            [
-              -90.164194,
-              38.772019
-            ],
-            [
-              -90.184194,
-              38.77434
-            ],
-            [
-              -90.186285,
-              38.76137
-            ],
-            [
-              -90.207928,
-              38.739736
-            ],
-            [
-              -90.221768,
-              38.730127
-            ],
-            [
-              -90.252319,
-              38.718241
-            ],
-            [
-              -90.301814,
-              38.655551
-            ],
-            [
-              -90.310855,
-              38.618218
-            ],
-            [
-              -90.320652,
-              38.594204
-            ],
-            [
-              -90.31358,
-              38.578738
-            ],
-            [
-              -90.296945,
-              38.56228
-            ],
-            [
-              -90.272229,
-              38.547941
-            ],
-            [
-              -90.271486,
-              38.539615
-            ],
-            [
-              -90.266914,
-              38.534152
-            ],
-            [
-              -90.258412,
-              38.532322
-            ],
-            [
-              -90.228398,
-              38.570891
-            ],
-            [
-              -90.19544,
-              38.595885
-            ],
-            [
-              -90.181364,
-              38.620433
-            ],
-            [
-              -90.177871,
-              38.63697
-            ],
-            [
-              -90.183128,
-              38.667591
-            ],
-            [
-              -90.193962,
-              38.686626
-            ],
-            [
-              -90.208595,
-              38.701618
-            ],
-            [
-              -90.211945,
-              38.707573
-            ],
-            [
-              -90.212814,
-              38.717564
-            ],
-            [
-              -90.205222,
-              38.732131
-            ],
-            [
-              -90.183438,
-              38.746825
-            ],
-            [
-              -90.164194,
-              38.772019
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "title": "Downtown St. Louis - Uranium processing for Manhattan Project",
-        "description": "1942 – During the rush to build the first atomic bomb, the U.S. government hired Mallinckrodt Chemical Works to process uranium at its downtown St. Louis plant. Uranium oxide from Mallinckrodt was used in the first sustained nuclear chain reaction in Chicago.",
-        "order": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           -90.35973,
           38.761164
         ],
@@ -1195,7 +1072,7 @@
       "properties": {
         "title": "Radioactive waste spreads across St. Louis",
         "description": "Shortly after World War II, the federal government dumped massive piles of radioactive waste from the Manhattan Project in several areas of greater St. Louis, including near the airport, in Weldon Spring and along Latty Avenue next to Coldwater Creek.",
-        "order": 0
+        "order": 2
       }
     },
     {
@@ -1226,6 +1103,129 @@
         "title": "Latty Avenue",
         "description": "1966 – When the federal government found a buyer for the hundreds of thousands of tons of nuclear waste stored at the airport, most of it was moved to a site on Latty Avenue in Hazelwood. Once again, it was left open to the elements. At this site, the Cotter Corp. dried the waste and shipped it to its facility in Colorado. The site remained contaminated for decades. ",
         "order": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -90.164194,
+              38.772019
+            ],
+            [
+              -90.184194,
+              38.77434
+            ],
+            [
+              -90.186285,
+              38.76137
+            ],
+            [
+              -90.207928,
+              38.739736
+            ],
+            [
+              -90.221768,
+              38.730127
+            ],
+            [
+              -90.252319,
+              38.718241
+            ],
+            [
+              -90.301814,
+              38.655551
+            ],
+            [
+              -90.310855,
+              38.618218
+            ],
+            [
+              -90.320652,
+              38.594204
+            ],
+            [
+              -90.31358,
+              38.578738
+            ],
+            [
+              -90.296945,
+              38.56228
+            ],
+            [
+              -90.272229,
+              38.547941
+            ],
+            [
+              -90.271486,
+              38.539615
+            ],
+            [
+              -90.266914,
+              38.534152
+            ],
+            [
+              -90.258412,
+              38.532322
+            ],
+            [
+              -90.228398,
+              38.570891
+            ],
+            [
+              -90.19544,
+              38.595885
+            ],
+            [
+              -90.181364,
+              38.620433
+            ],
+            [
+              -90.177871,
+              38.63697
+            ],
+            [
+              -90.183128,
+              38.667591
+            ],
+            [
+              -90.193962,
+              38.686626
+            ],
+            [
+              -90.208595,
+              38.701618
+            ],
+            [
+              -90.211945,
+              38.707573
+            ],
+            [
+              -90.212814,
+              38.717564
+            ],
+            [
+              -90.205222,
+              38.732131
+            ],
+            [
+              -90.183438,
+              38.746825
+            ],
+            [
+              -90.164194,
+              38.772019
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "title": "Downtown St. Louis - Uranium processing for Manhattan Project",
+        "description": "1942 – During the rush to build the first atomic bomb, the U.S. government hired Mallinckrodt Chemical Works to process uranium at its downtown St. Louis plant. Uranium oxide from Mallinckrodt was used in the first sustained nuclear chain reaction in Chicago.",
+        "order": 1
       }
     }
   ]
