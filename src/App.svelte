@@ -1,7 +1,11 @@
 <script>
 	import "mapbox-gl/dist/mapbox-gl.css";
+	// @ts-ignore
 	import mapboxgl from "mapbox-gl";
+	// @ts-ignore
 	import Ulysses from "ulysses-js";
+	// @ts-ignore
+	import scroll from "ulysses-js/plugins/scroll";
 
 	import { onMount } from "svelte";
 
@@ -23,11 +27,54 @@
 			style,
 			accessToken: import.meta.env.VITE_MAPBOX_ACCESS_TOKEN,
 			interactive: false,
+			maxZoom: 13,
 		}).on("load", onLoad);
+
+		story = new Ulysses({
+			map,
+			steps,
+			plugins: [scroll({ step: ".step", debug: import.meta.env.DEV })],
+		});
+
+		story.on("step", onStep);
+
+		// @ts-ignore
+		window.map = map;
 	});
+
+	function onStep({ step, feature }) {
+		console.log(feature);
+	}
 
 	function onLoad() {
 		map.resize();
+
+		map.addSource("steps", {
+			type: "geojson",
+			data: steps,
+		});
+
+		map.addLayer({
+			id: "steps-border",
+			type: "line",
+			source: "steps",
+			paint: {
+				"line-color": "#B42222",
+				"line-width": 2,
+			},
+			filter: ["==", "$type", "Polygon"],
+		});
+
+		map.addLayer({
+			id: "steps-points",
+			type: "circle",
+			source: "steps",
+			paint: {
+				"circle-radius": 6,
+				"circle-color": "#B42222",
+			},
+			filter: ["==", "$type", "Point"],
+		});
 	}
 </script>
 
@@ -38,10 +85,12 @@
 <div class="narrative">
 	{#each steps.features as feature}
 		{@const p = feature.properties}
-		<div class="step">
-			<h2>{p.title}</h2>
-			<p>{p.description}</p>
-		</div>
+		<section class="step">
+			<div>
+				<h2>{p.title}</h2>
+				<p>{p.description}</p>
+			</div>
+		</section>
 	{/each}
 </div>
 
@@ -61,16 +110,31 @@
 	}
 
 	.narrative {
+		pointer-events: none;
 		position: relative;
-		z-index: 10;
-		max-width: 66ch;
-		margin: 0 auto;
+		margin-top: -50vh;
 	}
 
 	.step {
-		background-color: rgba(0, 0, 0, 0.75);
-		color: white;
+		height: 100vh;
+		padding-top: 15vh;
+		pointer-events: none;
+	}
+
+	.step:first-of-type {
+		padding-top: 0;
+	}
+
+	.step div {
+		background: rgba(0, 0, 0, 0.75);
+		margin: 0 auto;
+		max-width: 60ch;
 		padding: 1em;
-		margin-bottom: 85vh;
+		pointer-events: all;
+	}
+
+	.step div * {
+		color: white;
+		margin-bottom: 1em;
 	}
 </style>

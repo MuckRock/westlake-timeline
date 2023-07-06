@@ -272,21 +272,491 @@
       },
       "properties": {
         "title": "47,000 tons of radioactive waste buried in northern St. Louis County",
-        "description": "Those piles were repeatedly moved and reburied. To this day, 47,000 tons of radioactive waste is buried in the West Lake Landfill in northern St. Louis County."
+        "description": "Those piles were repeatedly moved and reburied. To this day, 47,000 tons of radioactive waste is buried in the West Lake Landfill in northern St. Louis County.",
+        "order": 0
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -90.444617,
-          38.773097
+          [
+            [
+              -90.475896,
+              38.782309
+            ],
+            [
+              -90.476499,
+              38.780896
+            ],
+            [
+              -90.467706,
+              38.78029
+            ],
+            [
+              -90.447737,
+              38.775465
+            ],
+            [
+              -90.450985,
+              38.773578
+            ],
+            [
+              -90.448825,
+              38.772837
+            ],
+            [
+              -90.450508,
+              38.770912
+            ],
+            [
+              -90.447854,
+              38.768754
+            ],
+            [
+              -90.453778,
+              38.765548
+            ],
+            [
+              -90.44988,
+              38.761241
+            ],
+            [
+              -90.453685,
+              38.759099
+            ],
+            [
+              -90.452999,
+              38.758364
+            ],
+            [
+              -90.454868,
+              38.757291
+            ],
+            [
+              -90.454286,
+              38.756671
+            ],
+            [
+              -90.456974,
+              38.755089
+            ],
+            [
+              -90.435327,
+              38.74704
+            ],
+            [
+              -90.439321,
+              38.743931
+            ],
+            [
+              -90.439486,
+              38.742923
+            ],
+            [
+              -90.438754,
+              38.743068
+            ],
+            [
+              -90.435992,
+              38.740284
+            ],
+            [
+              -90.432885,
+              38.739267
+            ],
+            [
+              -90.433161,
+              38.738819
+            ],
+            [
+              -90.432002,
+              38.738411
+            ],
+            [
+              -90.432003,
+              38.737541
+            ],
+            [
+              -90.4298,
+              38.737442
+            ],
+            [
+              -90.430515,
+              38.735605
+            ],
+            [
+              -90.429613,
+              38.735602
+            ],
+            [
+              -90.4296,
+              38.734764
+            ],
+            [
+              -90.430511,
+              38.734765
+            ],
+            [
+              -90.430502,
+              38.733968
+            ],
+            [
+              -90.429508,
+              38.733967
+            ],
+            [
+              -90.429254,
+              38.729038
+            ],
+            [
+              -90.42072,
+              38.729046
+            ],
+            [
+              -90.420751,
+              38.727034
+            ],
+            [
+              -90.419474,
+              38.727033
+            ],
+            [
+              -90.417932,
+              38.725268
+            ],
+            [
+              -90.418314,
+              38.72487
+            ],
+            [
+              -90.414472,
+              38.723455
+            ],
+            [
+              -90.414051,
+              38.722734
+            ],
+            [
+              -90.405895,
+              38.722208
+            ],
+            [
+              -90.403142,
+              38.73125
+            ],
+            [
+              -90.401127,
+              38.735071
+            ],
+            [
+              -90.398851,
+              38.736231
+            ],
+            [
+              -90.399454,
+              38.737024
+            ],
+            [
+              -90.398642,
+              38.737501
+            ],
+            [
+              -90.391766,
+              38.733584
+            ],
+            [
+              -90.389646,
+              38.734731
+            ],
+            [
+              -90.386165,
+              38.741831
+            ],
+            [
+              -90.382613,
+              38.741618
+            ],
+            [
+              -90.37699,
+              38.746494
+            ],
+            [
+              -90.38064,
+              38.748617
+            ],
+            [
+              -90.3794,
+              38.748093
+            ],
+            [
+              -90.376878,
+              38.749632
+            ],
+            [
+              -90.378459,
+              38.750911
+            ],
+            [
+              -90.377755,
+              38.751455
+            ],
+            [
+              -90.37863,
+              38.752281
+            ],
+            [
+              -90.380112,
+              38.751213
+            ],
+            [
+              -90.381043,
+              38.75196
+            ],
+            [
+              -90.381777,
+              38.75115
+            ],
+            [
+              -90.383604,
+              38.752646
+            ],
+            [
+              -90.378781,
+              38.755588
+            ],
+            [
+              -90.374893,
+              38.759273
+            ],
+            [
+              -90.379703,
+              38.759969
+            ],
+            [
+              -90.384752,
+              38.759745
+            ],
+            [
+              -90.388569,
+              38.760653
+            ],
+            [
+              -90.40521,
+              38.773021
+            ],
+            [
+              -90.40814,
+              38.774373
+            ],
+            [
+              -90.411998,
+              38.775069
+            ],
+            [
+              -90.415557,
+              38.77914
+            ],
+            [
+              -90.419704,
+              38.786268
+            ],
+            [
+              -90.425951,
+              38.792357
+            ],
+            [
+              -90.424642,
+              38.793159
+            ],
+            [
+              -90.449556,
+              38.819892
+            ],
+            [
+              -90.473188,
+              38.790978
+            ],
+            [
+              -90.475896,
+              38.782309
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "title": "Residents continue to be in danger",
+        "description": "Despite evidence radioactive waste could spread and pose a risk to human health, federal agencies with authority over the numerous contaminated sites around St. Louis repeatedly downplayed the danger or failed to investigate it fully.\n\nThis allowed the waste to spread even further, putting St. Louis residents in danger. \n",
+        "order": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -90.164194,
+              38.772019
+            ],
+            [
+              -90.184194,
+              38.77434
+            ],
+            [
+              -90.186285,
+              38.76137
+            ],
+            [
+              -90.207928,
+              38.739736
+            ],
+            [
+              -90.221768,
+              38.730127
+            ],
+            [
+              -90.252319,
+              38.718241
+            ],
+            [
+              -90.301814,
+              38.655551
+            ],
+            [
+              -90.310855,
+              38.618218
+            ],
+            [
+              -90.320652,
+              38.594204
+            ],
+            [
+              -90.31358,
+              38.578738
+            ],
+            [
+              -90.296945,
+              38.56228
+            ],
+            [
+              -90.272229,
+              38.547941
+            ],
+            [
+              -90.271486,
+              38.539615
+            ],
+            [
+              -90.266914,
+              38.534152
+            ],
+            [
+              -90.258412,
+              38.532322
+            ],
+            [
+              -90.228398,
+              38.570891
+            ],
+            [
+              -90.19544,
+              38.595885
+            ],
+            [
+              -90.181364,
+              38.620433
+            ],
+            [
+              -90.177871,
+              38.63697
+            ],
+            [
+              -90.183128,
+              38.667591
+            ],
+            [
+              -90.193962,
+              38.686626
+            ],
+            [
+              -90.208595,
+              38.701618
+            ],
+            [
+              -90.211945,
+              38.707573
+            ],
+            [
+              -90.212814,
+              38.717564
+            ],
+            [
+              -90.205222,
+              38.732131
+            ],
+            [
+              -90.183438,
+              38.746825
+            ],
+            [
+              -90.164194,
+              38.772019
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "title": "Downtown St. Louis - Uranium processing for Manhattan Project",
+        "description": "1942 – During the rush to build the first atomic bomb, the U.S. government hired Mallinckrodt Chemical Works to process uranium at its downtown St. Louis plant. Uranium oxide from Mallinckrodt was used in the first sustained nuclear chain reaction in Chicago.",
+        "order": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.35973,
+          38.761164
         ],
         "type": "Point"
       },
       "properties": {
-        "title": "2023: West Lake Landfill",
-        "description": "Federal officials with the Nuclear Regulatory Commission and the Environmental Protection Agency says it didn’t realize contaminated waste — with elevated levels of radiation — was in other areas of the landfill until now."
+        "title": "Coldwater Creek",
+        "description": "1960s and 1970s – Both the St. Louis airport and Latty Avenue sites are bordered by Coldwater Creek, which runs through the heart of what are now busy suburban neighborhoods. Contamination from the sites washed into the creek and polluted it for miles. The contamination increased the risk of cancer for St. Louis residents who grew up playing in the creek. ",
+        "order": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.443769,
+          38.770632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Bridgeton landfill",
+        "description": "2010 – Immediately next to the radiologically contaminated West Lake landfill is the Bridgeton landfill, where an underground “fire” has been smoldering for more than a decade. The stench caused by the burning trash worsened in 2013 and drew attention to the West Lake site because of the community’s fear the fire could reach the buried radioactive waste next door.  ",
+        "order": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.439457,
+          38.767088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "West Lake",
+        "description": "1973 – When Cotter was done shipping economically useful material to Colorado, it was left with 8,700 tons of leached barium sulfate containing several tons of uranium. After pushing the federal government to greenlight a couple of disposal options, it dumped the waste – mixed with 39,000 tons of contaminated topsoil from the site – at the West Lake landfill in Bridgeton.",
+        "order": 0
       }
     },
     {
@@ -724,77 +1194,8 @@
       },
       "properties": {
         "title": "Radioactive waste spreads across St. Louis",
-        "description": "Shortly after World War II, the federal government dumped massive piles of radioactive waste from the Manhattan Project in several areas of greater St. Louis, including near the airport, in Weldon Spring and along Latty Avenue next to Coldwater Creek."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -90.364408,
-          38.747188
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "title": "1985-86: St. Louis Airport",
-        "description": "It’s discovered that contaminated soil is carried into Coldwater Creek through erosion at the airport. Then “low-level leakage” is found from buried material at the airport."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -90.445009,
-          38.772791
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "title": "1990: West Lake Landfill",
-        "description": "The federal government designates the West Lake Landfill a federal Superfund cleanup site. "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -90.359097,
-          38.761464
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "title": "1979: Coldwater Creek",
-        "description": "The U.S. Department of Energy acknowledges erosion of the airport site “resulted in the transport of slight contamination to the drainage ditch surrounding the site outside the fence and to the bottom sediments of Coldwater Creek.”"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -90.444748,
-          38.772893
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "title": "1992: West Lake Landfill",
-        "description": "Sampling shows slightly elevated thorium levels in “nominally-uncontaminated samples.” If this elevation of thorium-230 is confirmed by additional testing, it suggests a “low-level but widespread contribution from the West Lake landfill waste.” "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -90.445264,
-          38.772685
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "title": "West Lake Landfill",
-        "description": "Despite evidence radioactive waste could spread and pose a risk to human health, federal agencies repeatedly downplayed the danger or failed to investigate it fully.\n\nThis allowed the waste to spread even further, putting St. Louis residents in danger. "
+        "description": "Shortly after World War II, the federal government dumped massive piles of radioactive waste from the Manhattan Project in several areas of greater St. Louis, including near the airport, in Weldon Spring and along Latty Avenue next to Coldwater Creek.",
+        "order": 0
       }
     },
     {
@@ -807,392 +1208,24 @@
         "type": "Point"
       },
       "properties": {
-        "title": "1949: St. Louis Airport",
-        "description": "1946 – After World War II, the federal government acquired a tract of land near the St. Louis airport to store byproduct residue from processing in Mallinckrodt’s plants. The material was left in the open, exposed to the rain and wind. Deteriorating drums of radioactive material threatened to pollute nearby Coldwater Creek as early as 1949, but Mallinckrodt determined the risk to its workers that would come from moving the drums was too great. Most of the material was removed from the site in the 1960s, but uranium, thorium and radium remained buried on the property. The airport was remediated in the 2000s."
+        "title": "St. Louis Airport",
+        "description": "1946 – After World War II, the federal government acquired a tract of land near the St. Louis airport to store byproduct residue from processing in Mallinckrodt’s plants. The material was left in the open, exposed to the rain and wind. Deteriorating drums of radioactive material threatened to pollute nearby Coldwater Creek as early as 1949, but Mallinckrodt determined the risk to its workers that would come from moving the drums was too great. Most of the material was removed from the site in the 1960s, but uranium, thorium and radium remained buried on the property. The airport was cleaned up in the 2000s.",
+        "order": 0
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          [
-            [
-              -90.475896,
-              38.782309
-            ],
-            [
-              -90.476499,
-              38.780896
-            ],
-            [
-              -90.467706,
-              38.78029
-            ],
-            [
-              -90.447737,
-              38.775465
-            ],
-            [
-              -90.450985,
-              38.773578
-            ],
-            [
-              -90.448825,
-              38.772837
-            ],
-            [
-              -90.450508,
-              38.770912
-            ],
-            [
-              -90.447854,
-              38.768754
-            ],
-            [
-              -90.453778,
-              38.765548
-            ],
-            [
-              -90.44988,
-              38.761241
-            ],
-            [
-              -90.453685,
-              38.759099
-            ],
-            [
-              -90.452999,
-              38.758364
-            ],
-            [
-              -90.454868,
-              38.757291
-            ],
-            [
-              -90.454286,
-              38.756671
-            ],
-            [
-              -90.456974,
-              38.755089
-            ],
-            [
-              -90.435327,
-              38.74704
-            ],
-            [
-              -90.439321,
-              38.743931
-            ],
-            [
-              -90.439486,
-              38.742923
-            ],
-            [
-              -90.438754,
-              38.743068
-            ],
-            [
-              -90.435992,
-              38.740284
-            ],
-            [
-              -90.432885,
-              38.739267
-            ],
-            [
-              -90.433161,
-              38.738819
-            ],
-            [
-              -90.432002,
-              38.738411
-            ],
-            [
-              -90.432003,
-              38.737541
-            ],
-            [
-              -90.4298,
-              38.737442
-            ],
-            [
-              -90.430515,
-              38.735605
-            ],
-            [
-              -90.429613,
-              38.735602
-            ],
-            [
-              -90.4296,
-              38.734764
-            ],
-            [
-              -90.430511,
-              38.734765
-            ],
-            [
-              -90.430502,
-              38.733968
-            ],
-            [
-              -90.429508,
-              38.733967
-            ],
-            [
-              -90.429254,
-              38.729038
-            ],
-            [
-              -90.42072,
-              38.729046
-            ],
-            [
-              -90.420751,
-              38.727034
-            ],
-            [
-              -90.419474,
-              38.727033
-            ],
-            [
-              -90.417932,
-              38.725268
-            ],
-            [
-              -90.418314,
-              38.72487
-            ],
-            [
-              -90.414472,
-              38.723455
-            ],
-            [
-              -90.414051,
-              38.722734
-            ],
-            [
-              -90.405895,
-              38.722208
-            ],
-            [
-              -90.403142,
-              38.73125
-            ],
-            [
-              -90.401127,
-              38.735071
-            ],
-            [
-              -90.398851,
-              38.736231
-            ],
-            [
-              -90.399454,
-              38.737024
-            ],
-            [
-              -90.398642,
-              38.737501
-            ],
-            [
-              -90.391766,
-              38.733584
-            ],
-            [
-              -90.389646,
-              38.734731
-            ],
-            [
-              -90.386165,
-              38.741831
-            ],
-            [
-              -90.382613,
-              38.741618
-            ],
-            [
-              -90.37699,
-              38.746494
-            ],
-            [
-              -90.38064,
-              38.748617
-            ],
-            [
-              -90.3794,
-              38.748093
-            ],
-            [
-              -90.376878,
-              38.749632
-            ],
-            [
-              -90.378459,
-              38.750911
-            ],
-            [
-              -90.377755,
-              38.751455
-            ],
-            [
-              -90.37863,
-              38.752281
-            ],
-            [
-              -90.380112,
-              38.751213
-            ],
-            [
-              -90.381043,
-              38.75196
-            ],
-            [
-              -90.381777,
-              38.75115
-            ],
-            [
-              -90.383604,
-              38.752646
-            ],
-            [
-              -90.378781,
-              38.755588
-            ],
-            [
-              -90.374893,
-              38.759273
-            ],
-            [
-              -90.379703,
-              38.759969
-            ],
-            [
-              -90.384752,
-              38.759745
-            ],
-            [
-              -90.388569,
-              38.760653
-            ],
-            [
-              -90.40521,
-              38.773021
-            ],
-            [
-              -90.40814,
-              38.774373
-            ],
-            [
-              -90.411998,
-              38.775069
-            ],
-            [
-              -90.415557,
-              38.77914
-            ],
-            [
-              -90.419704,
-              38.786268
-            ],
-            [
-              -90.425951,
-              38.792357
-            ],
-            [
-              -90.424642,
-              38.793159
-            ],
-            [
-              -90.449556,
-              38.819892
-            ],
-            [
-              -90.473188,
-              38.790978
-            ],
-            [
-              -90.475896,
-              38.782309
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "title": "Residents continue to be in danger",
-        "description": "Despite evidence radioactive waste could spread and pose a risk to human health, federal agencies with authority over the numerous contaminated sites around St. Louis repeatedly downplayed the danger or failed to investigate it fully.\n\nThis allowed the waste to spread even further, putting St. Louis residents in danger. \n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -90.223569,
-          38.829672
+          -90.34923,
+          38.76858
         ],
         "type": "Point"
       },
       "properties": {
-        "title": "1987-88: Coldwater Creek leading to the Missouri River",
-        "description": "Missouri’s Department of Natural Resources says that the waste is in direct contact with groundwater and risks contaminating the Missouri River. The Nuclear Regulatory Commission finds radiation in the groundwater but below EPA drinking level standard."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -90.445178,
-          38.772718
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "title": "1988: West Lake Landfill",
-        "description": "The Nuclear Regulatory Commission inquires internally about whether it could take action against the Cotter Corp. Its general counsel says that the 14 years where it didn’t act would make it hard to bring a case against the company."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -90.3506,
-          38.76814
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "title": "1974: Latty Avenue",
-        "description": "The Atomic Energy Commission releases the Cotter Corp., a contractor paid to manage the sites, from its permit for the Latty Avenue location. A draft of the AEC’s letter to Cotter includes a requirement that Cotter study the potential for dangerous exposures, but dropped that from the final letter it sent."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -90.444748,
-          38.773097
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "title": "1994: West Lake Landfill",
-        "description": "Waste had already shifted outside the boundaries of the landfill."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -90.445178,
-          38.772718
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "title": "1975-76: West Lake Landfill",
-        "description": "The Nuclear Regulatory Commission, which supplanted the Atomic Energy Commission in 1975 to oversee the site, determines that the material in the West Lake Landfill “does not pose an immediate radiological health hazard to the public.”"
+        "title": "Latty Avenue",
+        "description": "1966 – When the federal government found a buyer for the hundreds of thousands of tons of nuclear waste stored at the airport, most of it was moved to a site on Latty Avenue in Hazelwood. Once again, it was left open to the elements. At this site, the Cotter Corp. dried the waste and shipped it to its facility in Colorado. The site remained contaminated for decades. ",
+        "order": 0
       }
     }
   ]
