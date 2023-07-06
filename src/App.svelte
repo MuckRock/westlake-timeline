@@ -19,7 +19,10 @@
 	let story;
 
 	// satellite streets
-	const style = "mapbox://styles/muckrock/cljq68fy000tl01qua57x9mxk";
+	// const style = "mapbox://styles/muckrock/cljq68fy000tl01qua57x9mxk";
+
+	// streets
+	const style = "mapbox://styles/muckrock/cljrmbf57016p01pg7aoi4mac";
 
 	onMount(() => {
 		map = new mapboxgl.Map({
