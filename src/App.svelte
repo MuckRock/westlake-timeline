@@ -111,14 +111,19 @@
 		position: sticky;
 		top: var(--nav-height, 0);
 		height: 90vh;
-		width: 100%;
 	}
 
 	.map {
 		position: absolute;
 		top: 0;
 		bottom: 0;
-		width: 100%;
+
+		/* container breakout */
+		width: 100vw;
+		left: 50%;
+		right: 50%;
+		margin-left: -50vw;
+		margin-right: -50vw;
 	}
 
 	.narrative {
