@@ -14,5 +14,11 @@ export default defineConfig({
 				assetFileNames: "assets/[name].[ext]",
 			},
 		},
+
+		lib: {
+			name: "app",
+			entry: "src/main.js",
+			output: {},
+		},
 	},
 });
