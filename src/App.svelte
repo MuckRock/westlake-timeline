@@ -98,9 +98,18 @@
 </div>
 
 <style>
+	:global(:root) {
+		--nav-height: 42px;
+	}
+
+	:global(body > div.container) {
+		/* make position sticky work on MuckRock */
+		overflow: visible !important;
+	}
+
 	.stick-this {
 		position: sticky;
-		top: 0;
+		top: var(--nav-height, 0);
 		height: 90vh;
 		width: 100%;
 	}
