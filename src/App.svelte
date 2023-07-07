@@ -101,7 +101,7 @@
 	.stick-this {
 		position: sticky;
 		top: 0;
-		height: 70vh;
+		height: 90vh;
 		width: 100%;
 	}
 

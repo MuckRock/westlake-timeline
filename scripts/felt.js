@@ -8,7 +8,7 @@ const ENDPOINT = `https://felt.com/api/v1/maps/${MAP_ID}/elements`;
 
 console.error(`Fetching map elements: https://felt.com/map/${MAP_ID}`);
 
-const FIELDS = ["zoom", "pitch", "bearing", "order", "position"];
+const FIELDS = ["zoom", "pitch", "bearing", "order", "position", "padding"];
 
 async function main() {
 	const resp = await fetch(ENDPOINT, {
@@ -48,7 +48,7 @@ function clean(feature) {
 		properties.order = 0;
 	}
 
-	if (properties.title && properties.description) {
+	if (properties.title || properties.description) {
 		return { type, geometry, properties };
 	}
 }
