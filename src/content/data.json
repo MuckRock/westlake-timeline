@@ -7,6 +7,97 @@
         "coordinates": [
           [
             [
+              -90.349918,
+              38.768912
+            ],
+            [
+              -90.349653,
+              38.768884
+            ],
+            [
+              -90.348704,
+              38.768785
+            ],
+            [
+              -90.348103,
+              38.768722
+            ],
+            [
+              -90.347441,
+              38.768652
+            ],
+            [
+              -90.347291,
+              38.768637
+            ],
+            [
+              -90.347157,
+              38.768622
+            ],
+            [
+              -90.346879,
+              38.768593
+            ],
+            [
+              -90.346123,
+              38.768514
+            ],
+            [
+              -90.346097,
+              38.768511
+            ],
+            [
+              -90.344362,
+              38.768332
+            ],
+            [
+              -90.344058,
+              38.768301
+            ],
+            [
+              -90.343051,
+              38.768197
+            ],
+            [
+              -90.342784,
+              38.768169
+            ],
+            [
+              -90.342418,
+              38.768132
+            ],
+            [
+              -90.341931,
+              38.768081
+            ],
+            [
+              -90.341582,
+              38.768045
+            ],
+            [
+              -90.33997,
+              38.76787
+            ],
+            [
+              -90.338733,
+              38.767735
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "title": "One of the places waste was moved after airport",
+        "description": "Latty Avenue 1966 – When the federal government found a buyer for the hundreds of thousands of tons of nuclear waste stored at the airport, most of it was moved to a site on Latty Avenue in Hazelwood. Once again, it was left open to the elements. At this site, the Cotter Corp. dried the waste and shipped it to its facility in Colorado. The site remained contaminated for decades. ",
+        "order": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
               -90.289603,
               38.885396
             ],
@@ -435,8 +526,8 @@
         "type": "Polygon"
       },
       "properties": {
-        "title": "Radioactive waste spreads across St. Louis",
-        "description": "Shortly after World War II, the federal government dumped massive piles of radioactive waste from the Manhattan Project in several areas of greater St. Louis, including near the airport, in Weldon Spring and along Latty Avenue next to Coldwater Creek.",
+        "title": "How waste from the atomic bomb plagues St. Louis 75 years later",
+        "description": "Nuclear waste produced in St. Louis during the development of the atomic bomb in the 1940s continues to be a danger to Missourians today after decades of mistakes made in its transportation and storage. ",
         "order": 1
       }
     },
@@ -559,7 +650,7 @@
       },
       "properties": {
         "title": "Uranium processing for Manhattan Project",
-        "description": "Downtown St. Louis 1942 – During the rush to build the first atomic bomb, the U.S. government hired Mallinckrodt Chemical Works to process uranium at its downtown St. Louis plant. Uranium oxide from Mallinckrodt was used in the first sustained nuclear chain reaction in Chicago.",
+        "description": "Downtown St. Louis 1942 – \n\nDuring the rush to build the first atomic bomb, the U.S. government hired Mallinckrodt Chemical Works to process uranium at its downtown St. Louis plant. \n\nUranium oxide from Mallinckrodt was used in the first sustained nuclear chain reaction in Chicago.",
         "order": 2
       }
     },
@@ -567,14 +658,181 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -90.361582,
-          38.743942
+          [
+            [
+              -90.374579,
+              38.758817
+            ],
+            [
+              -90.350019,
+              38.757624
+            ],
+            [
+              -90.349159,
+              38.757103
+            ],
+            [
+              -90.349063,
+              38.750843
+            ],
+            [
+              -90.348108,
+              38.749799
+            ],
+            [
+              -90.345527,
+              38.748681
+            ],
+            [
+              -90.345527,
+              38.743985
+            ],
+            [
+              -90.345241,
+              38.74324
+            ],
+            [
+              -90.336162,
+              38.738619
+            ],
+            [
+              -90.335684,
+              38.737277
+            ],
+            [
+              -90.338169,
+              38.733699
+            ],
+            [
+              -90.34352,
+              38.733922
+            ],
+            [
+              -90.349078,
+              38.733456
+            ],
+            [
+              -90.354004,
+              38.734822
+            ],
+            [
+              -90.364294,
+              38.740031
+            ],
+            [
+              -90.370753,
+              38.740287
+            ],
+            [
+              -90.370534,
+              38.742592
+            ],
+            [
+              -90.373161,
+              38.7443
+            ],
+            [
+              -90.377212,
+              38.742934
+            ],
+            [
+              -90.385751,
+              38.744215
+            ],
+            [
+              -90.392319,
+              38.748484
+            ],
+            [
+              -90.405018,
+              38.754972
+            ],
+            [
+              -90.406441,
+              38.756765
+            ],
+            [
+              -90.408412,
+              38.757106
+            ],
+            [
+              -90.411586,
+              38.758387
+            ],
+            [
+              -90.412134,
+              38.759753
+            ],
+            [
+              -90.417279,
+              38.762484
+            ],
+            [
+              -90.41695,
+              38.763423
+            ],
+            [
+              -90.411586,
+              38.765813
+            ],
+            [
+              -90.39626,
+              38.75685
+            ],
+            [
+              -90.395275,
+              38.756509
+            ],
+            [
+              -90.393304,
+              38.75907
+            ],
+            [
+              -90.390786,
+              38.759923
+            ],
+            [
+              -90.387831,
+              38.759497
+            ],
+            [
+              -90.384547,
+              38.758045
+            ],
+            [
+              -90.3817,
+              38.757021
+            ],
+            [
+              -90.378416,
+              38.756936
+            ],
+            [
+              -90.374579,
+              38.758817
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "title": "Radioactive waste in deteriorating steel drums",
+        "description": "St. Louis Airport 1946 – \n\nAfter World War II, the federal government acquired a tract of land near the St. Louis airport to store byproduct residue from processing in Mallinckrodt’s plants. The material was left in the open, exposed to the rain and wind. Deteriorating drums of radioactive material threatened to pollute nearby Coldwater Creek as early as 1949, but Mallinckrodt determined the risk to its workers that would come from moving the drums was too great. Most of the material was removed from the site in the 1960s, but uranium, thorium and radium remained buried on the property. The airport was cleaned up in the 2000s.",
+        "order": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.371643,
+          38.750182
         ],
         "type": "Point"
       },
       "properties": {
         "title": "Radioactive waste in deteriorating steel drums",
-        "description": "St. Louis Airport 1946 – After World War II, the federal government acquired a tract of land near the St. Louis airport to store byproduct residue from processing in Mallinckrodt’s plants. The material was left in the open, exposed to the rain and wind. Deteriorating drums of radioactive material threatened to pollute nearby Coldwater Creek as early as 1949, but Mallinckrodt determined the risk to its workers that would come from moving the drums was too great. Most of the material was removed from the site in the 1960s, but uranium, thorium and radium remained buried on the property. The airport was cleaned up in the 2000s.",
+        "description": "St. Louis Airport 1946 – \n\nAfter World War II, the federal government acquired a tract of land near the St. Louis airport to store byproduct residue from processing in Mallinckrodt’s plants. The material was left in the open, exposed to the rain and wind. \n\nDeteriorating drums of radioactive material threatened to pollute nearby Coldwater Creek as early as 1949, but Mallinckrodt determined the risk to its workers that would come from moving the drums was too great. Most of the material was removed from the site in the 1960s, but uranium, thorium and radium remained buried on the property. The airport was cleaned up in the 2000s.",
         "zoom": 11,
         "order": 3
       }
@@ -583,14 +841,14 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -90.34923,
-          38.76858
+          -90.338837,
+          38.767749
         ],
         "type": "Point"
       },
       "properties": {
         "title": "One of the places waste was moved after airport",
-        "description": "Latty Avenue 1966 – When the federal government found a buyer for the hundreds of thousands of tons of nuclear waste stored at the airport, most of it was moved to a site on Latty Avenue in Hazelwood. Once again, it was left open to the elements. At this site, the Cotter Corp. dried the waste and shipped it to its facility in Colorado. The site remained contaminated for decades. ",
+        "description": "Latty Avenue 1966 – \n\nWhen the federal government found a buyer for the hundreds of thousands of tons of nuclear waste stored at the airport, most of it was moved to a site on Latty Avenue in Hazelwood. Once again, it was left open to the elements. \n\nAt this site, the Cotter Corp. dried the waste and shipped it to its facility in Colorado. The site remained contaminated for decades. ",
         "order": 4
       }
     },
@@ -598,14 +856,14 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -90.35973,
-          38.761164
+          -90.351367,
+          38.764109
         ],
         "type": "Point"
       },
       "properties": {
         "title": "How waste drained off into creek",
-        "description": "Coldwater Creek 1960s and 1970s – Both the St. Louis airport and Latty Avenue sites are bordered by Coldwater Creek, which runs through the heart of what are now busy suburban neighborhoods. Contamination from the sites washed into the creek and polluted it for miles. The contamination increased the risk of cancer for St. Louis residents who grew up playing in the creek. ",
+        "description": "Coldwater Creek 1960s and 1970s – \n\nBoth the St. Louis airport and Latty Avenue sites are bordered by Coldwater Creek, which runs through the heart of what are now busy suburban neighborhoods. Contamination from the sites washed into the creek and polluted it for miles. \n\nThe contamination increased the risk of cancer for St. Louis residents who grew up playing in the creek. ",
         "order": 5
       }
     },
@@ -613,14 +871,61 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -90.439457,
-          38.767088
+          [
+            [
+              -90.361086,
+              38.75859
+            ],
+            [
+              -90.360221,
+              38.760952
+            ],
+            [
+              -90.357105,
+              38.762099
+            ],
+            [
+              -90.354163,
+              38.762369
+            ],
+            [
+              -90.351307,
+              38.764259
+            ],
+            [
+              -90.35148,
+              38.766621
+            ],
+            [
+              -90.352691,
+              38.773638
+            ],
+            [
+              -90.35096,
+              38.776472
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "title": "How waste drained off into creek ",
+        "description": "Coldwater Creek 1960s and 1970s –\n\nBoth the St. Louis airport and Latty Avenue sites are bordered by Coldwater Creek, which runs through the heart of what are now busy suburban neighborhoods. Contamination from the sites washed into the creek and polluted it for miles. The contamination increased the risk of cancer for St. Louis residents who grew up playing in the creek. ",
+        "order": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.439756,
+          38.767996
         ],
         "type": "Point"
       },
       "properties": {
         "title": "Illegal dumping to present",
-        "description": "West Lake 1973 – When Cotter was done shipping economically useful material to Colorado, it was left with 8,700 tons of leached barium sulfate containing several tons of uranium. After pushing the federal government to greenlight a couple of disposal options, it dumped the waste – mixed with 39,000 tons of contaminated topsoil from the site – at the West Lake landfill in Bridgeton.",
+        "description": "West Lake 1973 – \n\nWhen Cotter was done shipping economically useful material to Colorado, it was left with 8,700 tons of leached barium sulfate containing several tons of uranium. \n\nAfter pushing the federal government to greenlight a couple of disposal options, it dumped the waste – mixed with 39,000 tons of contaminated topsoil from the site – at the West Lake landfill in Bridgeton.",
         "order": 6
       }
     },
@@ -628,14 +933,49 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -90.443769,
-          38.770632
+          [
+            [
+              -90.440019,
+              38.769202
+            ],
+            [
+              -90.4412,
+              38.768467
+            ],
+            [
+              -90.439311,
+              38.76642
+            ],
+            [
+              -90.437933,
+              38.7672
+            ],
+            [
+              -90.439991,
+              38.769203
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {
+        "title": "Illegal dumping to present ",
+        "description": "When Cotter was done shipping economically useful material to Colorado, it was left with 8,700 tons of leached barium sulfate containing several tons of uranium. After pushing the federal government to greenlight a couple of disposal options, it dumped the waste – mixed with 39,000 tons of contaminated topsoil from the site – at the West Lake landfill in Bridgeton.",
+        "order": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.442618,
+          38.762927
         ],
         "type": "Point"
       },
       "properties": {
         "title": "Underground fire",
-        "description": "Bridgeton landfill 2010 – Immediately next to the radiologically contaminated West Lake landfill is the Bridgeton landfill, where an underground “fire” has been smoldering for more than a decade. The stench caused by the burning trash worsened in 2013 and drew attention to the West Lake site because of the community’s fear the fire could reach the buried radioactive waste next door.  ",
+        "description": "Bridgeton landfill 2010 – \n\nImmediately next to the radiologically contaminated West Lake landfill is the Bridgeton landfill, where an underground “fire” has been smoldering for more than a decade. \n\nThe stench caused by the burning trash worsened in 2013 and drew attention to the West Lake site because of the community’s fear the fire could reach the buried radioactive waste next door.  ",
         "order": 7
       }
     }

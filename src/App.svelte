@@ -79,6 +79,10 @@
 			filter: ["==", "$type", "Point"],
 		});
 	}
+
+	function linebreaks(text = "") {
+		return text.split("\n");
+	}
 </script>
 
 <div class="stick-this">
@@ -91,7 +95,9 @@
 		<section class="step">
 			<div>
 				<h2>{p.title}</h2>
-				<p>{p.description}</p>
+				{#each linebreaks(p.description) as line}
+					<p>{line}</p>
+				{/each}
 			</div>
 		</section>
 	{/each}

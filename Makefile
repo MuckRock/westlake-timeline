@@ -11,6 +11,7 @@ update:
 	./scripts/felt.js $(MAP_ID) > $(CONTENT_DEST)
 
 build:
+	MODE=demo npm run build
 	npm run build
 	touch dist/.nojekyll
 
