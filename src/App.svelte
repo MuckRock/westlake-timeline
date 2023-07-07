@@ -109,10 +109,10 @@
 </script>
 
 <div class="stick-this">
-	<div class="map" bind:this={container} />
+	<div class="map big" bind:this={container} />
 </div>
 
-<div class="narrative">
+<div class="narrative big">
 	{#each steps.features as feature}
 		{@const p = feature.properties}
 		<section class="step {p.position}">
@@ -146,19 +146,21 @@
 		position: absolute;
 		top: 0;
 		bottom: 0;
-
-		/* container breakout */
-		width: 100vw;
-		left: 50%;
-		right: 50%;
-		margin-left: -50vw;
-		margin-right: -50vw;
 	}
 
 	.narrative {
 		pointer-events: none;
 		position: relative;
 		margin-top: -50vh;
+	}
+
+	.big {
+		/* container breakout */
+		width: 100vw;
+		left: 50%;
+		right: 50%;
+		margin-left: -50vw;
+		margin-right: -50vw;
 	}
 
 	.step {
