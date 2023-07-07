@@ -23,14 +23,27 @@ async function main() {
 
 	const { data } = await resp.json();
 
-	const fc = { type: data.type, features: data.features.map(clean).filter(Boolean) };
+	const fc = {
+		type: data.type,
+		features: data.features
+			.map(clean)
+			.filter(Boolean)
+			.sort((a, b) => a.properties.order - b.properties.order),
+	};
 
-	fc.features = fc.features.sort((a, b) => a.properties.order - b.properties.order);
+	// set position after ordering
+	fc.features.forEach((f, i) => {
+		if (i === 0) {
+			f.properties.position = "center";
+		} else {
+			f.properties.position = i % 2 ? "left" : "right";
+		}
+	});
 
 	process.stdout.write(JSON.stringify(fc, null, 2));
 }
 
-function clean(feature) {
+function clean(feature, id) {
 	const { properties: p, geometry, type } = feature;
 
 	const properties = {
@@ -49,7 +62,7 @@ function clean(feature) {
 	}
 
 	if (properties.title || properties.description) {
-		return { type, geometry, properties };
+		return { id, type, geometry, properties };
 	}
 }
 

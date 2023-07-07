@@ -17,6 +17,7 @@
 	let container;
 	let map;
 	let story;
+	let highlight;
 
 	// satellite streets
 	// const style = "mapbox://styles/muckrock/cljq68fy000tl01qua57x9mxk";
@@ -46,7 +47,27 @@
 	});
 
 	function onStep({ step, feature }) {
-		// console.log(feature);
+		if (!map.style.loaded) return;
+
+		if (highlight) {
+			map.setFeatureState(
+				{
+					source: "steps",
+					id: highlight.id,
+				},
+				{ highlight: false }
+			);
+		}
+
+		map.setFeatureState(
+			{
+				source: "steps",
+				id: feature.id,
+			},
+			{ highlight: true }
+		);
+
+		highlight = feature;
 	}
 
 	function onLoad() {
@@ -64,8 +85,9 @@
 			paint: {
 				"line-color": "#B42222",
 				"line-width": 2,
+				"line-opacity": ["case", ["boolean", ["feature-state", "highlight"], false], 1, 0.25],
 			},
-			filter: ["==", "$type", "Polygon"],
+			filter: ["!=", "$type", "Point"],
 		});
 
 		map.addLayer({
@@ -75,6 +97,7 @@
 			paint: {
 				"circle-radius": 6,
 				"circle-color": "#B42222",
+				"circle-opacity": ["case", ["boolean", ["feature-state", "highlight"], false], 1, 0.25],
 			},
 			filter: ["==", "$type", "Point"],
 		});
@@ -92,7 +115,7 @@
 <div class="narrative">
 	{#each steps.features as feature}
 		{@const p = feature.properties}
-		<section class="step">
+		<section class="step {p.position}">
 			<div>
 				<h2>{p.title}</h2>
 				{#each linebreaks(p.description) as line}
@@ -140,7 +163,7 @@
 
 	.step {
 		height: 100vh;
-		padding-top: 15vh;
+		padding-top: 35vh;
 		pointer-events: none;
 	}
 
@@ -159,5 +182,13 @@
 	.step div * {
 		color: white;
 		margin-bottom: 1em;
+	}
+
+	:global(.step.left) div {
+		margin-left: 2em;
+	}
+
+	:global(.step.right) div {
+		margin-right: 2em;
 	}
 </style>

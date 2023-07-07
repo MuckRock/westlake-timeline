@@ -20,3 +20,6 @@ preview:
 
 publish:
 	git push
+
+clean:
+	rm -r dist
