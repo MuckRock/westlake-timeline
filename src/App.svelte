@@ -1,10 +1,8 @@
 <script>
 	import "mapbox-gl/dist/mapbox-gl.css";
-	// @ts-ignore
 	import mapboxgl from "mapbox-gl";
-	// @ts-ignore
+	import bbox from "@turf/bbox";
 	import Ulysses from "ulysses-js";
-	// @ts-ignore
 	import scroll from "ulysses-js/plugins/scroll";
 
 	import { onMount } from "svelte";
@@ -32,6 +30,7 @@
 			accessToken: import.meta.env.VITE_MAPBOX_ACCESS_TOKEN,
 			interactive: false,
 			maxZoom: 13,
+			bounds: bbox(steps.features[0]),
 		}).on("load", onLoad);
 
 		story = new Ulysses({
@@ -59,13 +58,15 @@
 			);
 		}
 
-		map.setFeatureState(
-			{
-				source: "steps",
-				id: feature.id,
-			},
-			{ highlight: true }
-		);
+		map.once("moveend", () => {
+			map.setFeatureState(
+				{
+					source: "steps",
+					id: feature.id,
+				},
+				{ highlight: true }
+			);
+		});
 
 		highlight = feature;
 	}
@@ -87,6 +88,10 @@
 				"line-width": 2,
 				"line-opacity": ["case", ["boolean", ["feature-state", "highlight"], false], 1, 0.25],
 			},
+			transition: {
+				duration: 300,
+				delay: 0,
+			},
 			filter: ["!=", "$type", "Point"],
 		});
 
@@ -99,6 +104,11 @@
 				"circle-color": "#B42222",
 				"circle-opacity": ["case", ["boolean", ["feature-state", "highlight"], false], 1, 0.25],
 			},
+			transition: {
+				duration: 300,
+				delay: 0,
+			},
+
 			filter: ["==", "$type", "Point"],
 		});
 	}
@@ -176,7 +186,7 @@
 	.step div {
 		background: rgba(0, 0, 0, 0.75);
 		margin: 0 auto;
-		max-width: 60ch;
+		max-width: 50ch;
 		padding: 1em;
 		pointer-events: all;
 	}

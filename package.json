@@ -12,6 +12,7 @@
 	},
 	"devDependencies": {
 		"@sveltejs/vite-plugin-svelte": "^2.4.2",
+		"@turf/bbox": "^6.5.0",
 		"mapbox-gl": "^2.15.0",
 		"node-fetch": "^3.3.1",
 		"prettier-plugin-svelte": "^2.10.1",
