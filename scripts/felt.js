@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 import fetch from "node-fetch";
+import { marked } from "marked";
 
 const { FELT_ACCESS_TOKEN } = process.env;
 const MAP_ID = process.argv[2];
@@ -9,6 +10,11 @@ const ENDPOINT = `https://felt.com/api/v1/maps/${MAP_ID}/elements`;
 console.error(`Fetching map elements: https://felt.com/map/${MAP_ID}`);
 
 const FIELDS = ["zoom", "pitch", "bearing", "order", "position", "padding"];
+
+marked.use({
+	headerIds: false,
+	mangle: false,
+});
 
 async function main() {
 	const resp = await fetch(ENDPOINT, {
@@ -48,7 +54,7 @@ function clean(feature, id) {
 
 	const properties = {
 		title: p["felt-text"],
-		description: p["felt-description"],
+		description: p["felt-description"] ? marked(p["felt-description"]) : null,
 	};
 
 	FIELDS.forEach((f) => {

@@ -29,7 +29,7 @@
 			style,
 			accessToken: import.meta.env.VITE_MAPBOX_ACCESS_TOKEN,
 			interactive: false,
-			maxZoom: 13,
+			maxZoom: 15,
 			bounds: bbox(steps.features[0]),
 		}).on("load", onLoad);
 
@@ -112,10 +112,6 @@
 			filter: ["==", "$type", "Point"],
 		});
 	}
-
-	function linebreaks(text = "") {
-		return text.split("\n");
-	}
 </script>
 
 <div class="stick-this">
@@ -128,9 +124,7 @@
 		<section class="step {p.position}">
 			<div>
 				<h2>{p.title}</h2>
-				{#each linebreaks(p.description) as line}
-					<p>{line}</p>
-				{/each}
+				{@html p.description}
 			</div>
 		</section>
 	{/each}
@@ -191,7 +185,7 @@
 		pointer-events: all;
 	}
 
-	.step div * {
+	.step div :global(*) {
 		color: white;
 		margin-bottom: 1em;
 	}
