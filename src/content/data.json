@@ -568,7 +568,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 4,
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -731,13 +731,13 @@
       },
       "properties": {
         "title": "Radioactive waste in deteriorating steel drums",
-        "description": "St. Louis Airport 1946 – \n\nAfter World War II, the federal government acquired a tract of land near the St. Louis airport to store byproduct residue from processing in Mallinckrodt’s plants. The material was left in the open, exposed to the rain and wind. Deteriorating drums of radioactive material threatened to pollute nearby Coldwater Creek as early as 1949, but Mallinckrodt determined the risk to its workers that would come from moving the drums was too great. \n\nMost of the material was removed from the site in the 1960s, but uranium, thorium and radium remained buried on the property. The airport was cleaned up in the 2000s.",
+        "description": "St. Louis Airport 1946 – \n\nAfter World War II, the federal government acquired a tract of land near the St. Louis airport to store byproduct residue from processing in Mallinckrodt’s plants. The material was left in the open, exposed to the rain and wind. \n\nDeteriorating drums of radioactive material threatened to pollute nearby Coldwater Creek as early as 1949, but Mallinckrodt determined the risk to its workers that would come from moving the drums was too great. ",
         "order": 3,
         "position": "right"
       }
     },
     {
-      "id": 3,
+      "id": 6,
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -824,13 +824,13 @@
       },
       "properties": {
         "title": "One of the places waste was moved after airport",
-        "description": "Latty Avenue 1966 – When the federal government found a buyer for the hundreds of thousands of tons of nuclear waste stored at the airport, most of it was moved to a site on Latty Avenue in Hazelwood. Once again, it was left open to the elements. At this site, the Cotter Corp. dried the waste and shipped it to its facility in Colorado. The site remained contaminated for decades. ",
+        "description": "Latty Avenue 1966 – \n\nWhen the federal government found a buyer for the hundreds of thousands of tons of nuclear waste stored at the airport, most of it was moved to a site on Latty Avenue in Hazelwood. Once again, it was left open to the elements. At this site, the Cotter Corp. dried the waste and shipped it to its facility in Colorado. The site remained contaminated for decades. ",
         "order": 4,
         "position": "left"
       }
     },
     {
-      "id": 4,
+      "id": 3,
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -879,7 +879,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 5,
       "type": "Feature",
       "geometry": {
         "coordinates": [
