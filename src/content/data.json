@@ -2,44 +2,7 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "id": 6,
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -90.351804,
-              38.76902
-            ],
-            [
-              -90.351521,
-              38.767189
-            ],
-            [
-              -90.348935,
-              38.767081
-            ],
-            [
-              -90.348704,
-              38.768791
-            ],
-            [
-              -90.351804,
-              38.76902
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "title": "One of the places waste was moved after airport",
-        "description": "<p><strong>Latty Avenue, 1966</strong> </p>\n<p>When the federal government found a buyer for the hundreds of thousands of tons of nuclear waste stored at the airport, most of it was moved to a site on Latty Avenue in Hazelwood. Once again, it was left open to the elements. </p>\n<p>At this site, the Cotter Corp. dried the waste and shipped it to its facility in Colorado. The site remained contaminated for decades. </p>\n",
-        "order": 0,
-        "position": "center"
-      }
-    },
-    {
-      "id": 0,
+      "id": 3,
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -361,60 +324,60 @@
               38.531822
             ],
             [
-              -90.266266,
-              38.533652
+              -90.255097,
+              38.536305
             ],
             [
-              -90.270838,
-              38.539115
+              -90.250533,
+              38.542306
             ],
             [
-              -90.272441,
-              38.548394
+              -90.243955,
+              38.550536
             ],
             [
-              -90.289126,
-              38.556543
+              -90.238738,
+              38.556986
             ],
             [
-              -90.307084,
-              38.572119
+              -90.232182,
+              38.56839
             ],
             [
-              -90.312932,
-              38.578239
+              -90.215265,
+              38.580805
             ],
             [
-              -90.320004,
-              38.593705
+              -90.192488,
+              38.595056
             ],
             [
-              -90.310207,
-              38.617719
+              -90.177322,
+              38.634822
             ],
             [
-              -90.301166,
-              38.655052
+              -90.183814,
+              38.672456
             ],
             [
-              -90.251671,
-              38.717742
+              -90.211649,
+              38.705952
             ],
             [
-              -90.22112,
-              38.729629
+              -90.211214,
+              38.723158
             ],
             [
-              -90.20728,
-              38.739238
+              -90.206021,
+              38.732637
             ],
             [
-              -90.185637,
-              38.760872
+              -90.182491,
+              38.747643
             ],
             [
-              -90.183546,
-              38.773842
+              -90.172261,
+              38.760946
             ],
             [
               -90.163546,
@@ -476,11 +439,11 @@
         "title": "How waste from the atomic bomb plagues St. Louis 75 years later",
         "description": "<p>Nuclear waste produced in St. Louis during the development of the atomic bomb in the 1940s continues to be a danger to Missourians today after decades of mistakes made in its transportation and storage. </p>\n",
         "order": 1,
-        "position": "left"
+        "position": "center"
       }
     },
     {
-      "id": 1,
+      "id": 0,
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -602,194 +565,105 @@
         "description": "<p><strong>Downtown St. Louis, 1942</strong></p>\n<p>During the rush to build the first atomic bomb, the U.S. government hired Mallinckrodt Chemical Works to process uranium at its downtown St. Louis plant. </p>\n<p>Uranium oxide from Mallinckrodt was used in the first sustained nuclear chain reaction in Chicago.</p>\n",
         "zoom": 18,
         "order": 2,
-        "position": "right"
+        "position": "left"
       }
     },
     {
-      "id": 2,
+      "id": 1,
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -90.374579,
-              38.758817
+              -90.374636,
+              38.759353
             ],
             [
-              -90.350019,
-              38.757624
+              -90.350573,
+              38.758076
             ],
             [
-              -90.349159,
-              38.757103
+              -90.355986,
+              38.760275
             ],
             [
-              -90.349063,
-              38.750843
+              -90.360444,
+              38.759956
             ],
             [
-              -90.348108,
-              38.749799
+              -90.369678,
+              38.764673
             ],
             [
-              -90.345527,
-              38.748681
-            ],
-            [
-              -90.345527,
-              38.743985
-            ],
-            [
-              -90.345241,
-              38.74324
-            ],
-            [
-              -90.336162,
-              38.738619
-            ],
-            [
-              -90.335684,
-              38.737277
-            ],
-            [
-              -90.338169,
-              38.733699
-            ],
-            [
-              -90.34352,
-              38.733922
-            ],
-            [
-              -90.349078,
-              38.733456
-            ],
-            [
-              -90.354004,
-              38.734822
-            ],
-            [
-              -90.364294,
-              38.740031
-            ],
-            [
-              -90.370753,
-              38.740287
-            ],
-            [
-              -90.370534,
-              38.742592
-            ],
-            [
-              -90.373161,
-              38.7443
-            ],
-            [
-              -90.377212,
-              38.742934
-            ],
-            [
-              -90.385751,
-              38.744215
-            ],
-            [
-              -90.392319,
-              38.748484
-            ],
-            [
-              -90.405018,
-              38.754972
-            ],
-            [
-              -90.406441,
-              38.756765
-            ],
-            [
-              -90.408412,
-              38.757106
-            ],
-            [
-              -90.411586,
-              38.758387
-            ],
-            [
-              -90.412134,
-              38.759753
-            ],
-            [
-              -90.417279,
-              38.762484
-            ],
-            [
-              -90.41695,
-              38.763423
-            ],
-            [
-              -90.411586,
-              38.765813
-            ],
-            [
-              -90.39626,
-              38.75685
-            ],
-            [
-              -90.395275,
-              38.756509
-            ],
-            [
-              -90.393304,
-              38.75907
-            ],
-            [
-              -90.390786,
-              38.759923
-            ],
-            [
-              -90.387831,
-              38.759497
-            ],
-            [
-              -90.384547,
-              38.758045
-            ],
-            [
-              -90.3817,
-              38.757021
-            ],
-            [
-              -90.378416,
-              38.756936
-            ],
-            [
-              -90.374579,
-              38.758817
+              -90.374636,
+              38.759353
             ]
           ]
         ],
-        "type": "MultiLineString"
+        "type": "Polygon"
       },
       "properties": {
         "title": "Radioactive waste in deteriorating steel drums",
         "description": "<p><strong>St. Louis Airport, 1946</strong></p>\n<p>After World War II, the federal government acquired a tract of land near the St. Louis airport to store byproduct residue from processing in Mallinckrodt’s plants. The material was left in the open, exposed to the rain and wind. </p>\n<p>Deteriorating drums of radioactive material threatened to pollute nearby Coldwater Creek as early as 1949, but Mallinckrodt determined the risk to its workers that would come from moving the drums was too great. </p>\n",
+        "zoom": 15,
         "order": 3,
+        "position": "right"
+      }
+    },
+    {
+      "id": 4,
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -90.351804,
+              38.76902
+            ],
+            [
+              -90.351521,
+              38.767189
+            ],
+            [
+              -90.348935,
+              38.767081
+            ],
+            [
+              -90.348704,
+              38.768791
+            ],
+            [
+              -90.351804,
+              38.76902
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "title": "One of the places waste was moved after airport",
+        "description": "<p><strong>Latty Avenue, 1966</strong> </p>\n<p>When the federal government found a buyer for the hundreds of thousands of tons of nuclear waste stored at the airport, most of it was moved to a site on Latty Avenue in Hazelwood. Once again, it was left open to the elements. </p>\n<p>At this site, the Cotter Corp. dried the waste and shipped it to its facility in Colorado. The site remained contaminated for decades. </p>\n",
+        "zoom": 15,
+        "order": 4,
         "position": "left"
       }
     },
     {
-      "id": 3,
+      "id": 6,
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
               -90.361086,
-              38.75859
+              38.758589
             ],
             [
-              -90.360221,
+              -90.36022,
               38.760952
             ],
             [
-              -90.357105,
+              -90.357104,
               38.762099
             ],
             [
@@ -801,23 +675,23 @@
               38.764259
             ],
             [
-              -90.35148,
+              -90.351479,
               38.766621
             ],
             [
-              -90.352691,
+              -90.35269,
               38.773638
             ],
             [
-              -90.350814,
+              -90.350813,
               38.776418
             ],
             [
-              -90.349273,
-              38.778613
+              -90.349272,
+              38.778612
             ],
             [
-              -90.347233,
+              -90.347232,
               38.779183
             ],
             [
@@ -829,16 +703,16 @@
               38.781652
             ],
             [
-              -90.342348,
+              -90.342347,
               38.783126
             ],
             [
               -90.34326,
-              38.7853
+              38.785299
             ],
             [
               -90.342843,
-              38.790074
+              38.790073
             ],
             [
               -90.336894,
@@ -857,8 +731,120 @@
               38.798355
             ],
             [
-              -90.332121,
-              38.799733
+              -90.331203,
+              38.800902
+            ],
+            [
+              -90.329964,
+              38.801937
+            ],
+            [
+              -90.328449,
+              38.804299
+            ],
+            [
+              -90.327305,
+              38.805672
+            ],
+            [
+              -90.325512,
+              38.806636
+            ],
+            [
+              -90.32341,
+              38.807094
+            ],
+            [
+              -90.320874,
+              38.807094
+            ],
+            [
+              -90.319483,
+              38.807383
+            ],
+            [
+              -90.317968,
+              38.808636
+            ],
+            [
+              -90.317781,
+              38.810088
+            ],
+            [
+              -90.318186,
+              38.811914
+            ],
+            [
+              -90.313366,
+              38.819039
+            ],
+            [
+              -90.312915,
+              38.820268
+            ],
+            [
+              -90.312149,
+              38.821286
+            ],
+            [
+              -90.310077,
+              38.822093
+            ],
+            [
+              -90.3085,
+              38.822093
+            ],
+            [
+              -90.307014,
+              38.821496
+            ],
+            [
+              -90.304628,
+              38.820652
+            ],
+            [
+              -90.303067,
+              38.820272
+            ],
+            [
+              -90.301018,
+              38.820272
+            ],
+            [
+              -90.299359,
+              38.820956
+            ],
+            [
+              -90.297603,
+              38.820804
+            ],
+            [
+              -90.291456,
+              38.814114
+            ],
+            [
+              -90.287846,
+              38.810313
+            ],
+            [
+              -90.285211,
+              38.80864
+            ],
+            [
+              -90.281991,
+              38.808564
+            ],
+            [
+              -90.279845,
+              38.810008
+            ],
+            [
+              -90.277963,
+              38.810934
+            ],
+            [
+              -90.266842,
+              38.810368
             ]
           ]
         ],
@@ -872,38 +858,102 @@
       }
     },
     {
-      "id": 4,
+      "id": 2,
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -90.440019,
-              38.769202
+              -90.451112,
+              38.77361
             ],
             [
-              -90.4412,
-              38.768467
+              -90.449707,
+              38.769785
             ],
             [
-              -90.439311,
-              38.76642
+              -90.449262,
+              38.765298
             ],
             [
-              -90.437933,
-              38.7672
+              -90.446366,
+              38.76359
             ],
             [
-              -90.439991,
-              38.769203
+              -90.44347,
+              38.761997
+            ],
+            [
+              -90.440202,
+              38.764313
+            ],
+            [
+              -90.437938,
+              38.762142
+            ],
+            [
+              -90.435933,
+              38.763011
+            ],
+            [
+              -90.436081,
+              38.764342
+            ],
+            [
+              -90.438383,
+              38.766745
+            ],
+            [
+              -90.440871,
+              38.76524
+            ],
+            [
+              -90.441455,
+              38.766019
+            ],
+            [
+              -90.44073,
+              38.766809
+            ],
+            [
+              -90.441542,
+              38.767916
+            ],
+            [
+              -90.440817,
+              38.768932
+            ],
+            [
+              -90.439948,
+              38.769452
+            ],
+            [
+              -90.442203,
+              38.77154
+            ],
+            [
+              -90.444567,
+              38.773794
+            ],
+            [
+              -90.446167,
+              38.774715
+            ],
+            [
+              -90.448348,
+              38.775325
+            ],
+            [
+              -90.451112,
+              38.77361
             ]
           ]
         ],
-        "type": "MultiLineString"
+        "type": "Polygon"
       },
       "properties": {
         "title": "Several tons of radioactive waste dumped illegally into landfill ",
-        "description": "<p><strong>West Lake, 1973</strong></p>\n<p>When Cotter was done shipping economically useful material to Colorado, it was left with 8,700 tons of leached barium sulfate containing several tons of uranium. </p>\n<p>After pushing the federal government to greenlight a couple of disposal options, it dumped the waste – mixed with 39,000 tons of contaminated topsoil from the site – at the West Lake landfill in Bridgeton.</p>\n",
+        "description": "<p><strong>West Lake Landfill, 1973</strong></p>\n<p>When Cotter was done shipping economically useful material to Colorado, it was left with 8,700 tons of leached barium sulfate containing several tons of uranium. </p>\n<p>After pushing the federal government to greenlight a couple of disposal options, it dumped the waste – mixed with 39,000 tons of contaminated topsoil from the site – at the West Lake landfill in Bridgeton.</p>\n",
         "zoom": 15,
         "order": 6,
         "position": "left"
@@ -914,14 +964,86 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -90.442618,
-          38.762927
+          [
+            [
+              -90.443542,
+              38.762054
+            ],
+            [
+              -90.440246,
+              38.764358
+            ],
+            [
+              -90.441487,
+              38.766057
+            ],
+            [
+              -90.440746,
+              38.766733
+            ],
+            [
+              -90.441523,
+              38.767858
+            ],
+            [
+              -90.44083,
+              38.76896
+            ],
+            [
+              -90.44099,
+              38.769498
+            ],
+            [
+              -90.44292,
+              38.769498
+            ],
+            [
+              -90.443876,
+              38.769029
+            ],
+            [
+              -90.443751,
+              38.768167
+            ],
+            [
+              -90.443995,
+              38.76762
+            ],
+            [
+              -90.443355,
+              38.766764
+            ],
+            [
+              -90.443568,
+              38.766218
+            ],
+            [
+              -90.44433,
+              38.766146
+            ],
+            [
+              -90.445337,
+              38.765718
+            ],
+            [
+              -90.446313,
+              38.764339
+            ],
+            [
+              -90.446404,
+              38.763721
+            ],
+            [
+              -90.443542,
+              38.762054
+            ]
+          ]
         ],
-        "type": "Point"
+        "type": "Polygon"
       },
       "properties": {
         "title": "Reaction triggers underground fire",
-        "description": "<p><strong>Bridgeton landfill, 2010</strong></p>\n<p>Immediately next to the radiologically contaminated West Lake landfill is the Bridgeton landfill, where an underground “fire” has been smoldering for more than a decade. </p>\n<p>The stench caused by the burning trash worsened in 2013 and drew attention to the West Lake site because of the community’s fear the fire could reach the buried radioactive waste next door.  </p>\n",
+        "description": "<p><strong>Bridgeton landfill, 2010</strong></p>\n<p>Immediately next to the radiologically contaminated West Lake landfill is the Bridgeton landfill, where an underground “fire” has been smoldering for more than a decade. </p>\n<p>The stench caused by the burning trash worsened in 2013 and drew attention to the West Lake site because of the community’s fear the fire could reach the buried radioactive waste next door. </p>\n",
         "zoom": 15,
         "order": 7,
         "position": "right"
