@@ -8,24 +8,24 @@
         "coordinates": [
           [
             [
-              -90.350197,
-              38.768921
+              -90.351804,
+              38.76902
             ],
             [
-              -90.350534,
-              38.767232
+              -90.351521,
+              38.767189
             ],
             [
-              -90.347231,
-              38.766909
+              -90.348935,
+              38.767081
             ],
             [
-              -90.346885,
-              38.768576
+              -90.348704,
+              38.768791
             ],
             [
-              -90.350197,
-              38.768921
+              -90.351804,
+              38.76902
             ]
           ]
         ],
@@ -600,7 +600,7 @@
       "properties": {
         "title": "Uranium processing for Manhattan Project",
         "description": "<p><strong>Downtown St. Louis, 1942</strong></p>\n<p>During the rush to build the first atomic bomb, the U.S. government hired Mallinckrodt Chemical Works to process uranium at its downtown St. Louis plant. </p>\n<p>Uranium oxide from Mallinckrodt was used in the first sustained nuclear chain reaction in Chicago.</p>\n",
-        "zoom": 15,
+        "zoom": 18,
         "order": 2,
         "position": "right"
       }

@@ -17,16 +17,16 @@
 	let story;
 	let highlight;
 
-	// satellite streets
-	// const style = "mapbox://styles/muckrock/cljq68fy000tl01qua57x9mxk";
-
-	// streets
-	const style = "mapbox://styles/muckrock/cljrmbf57016p01pg7aoi4mac";
+	const styles = {
+		outdoors: "mapbox://styles/muckrock/cljydyasc00ax01qg213q4l60",
+		streets: "mapbox://styles/muckrock/cljrmbf57016p01pg7aoi4mac",
+		satellite: "mapbox://styles/muckrock/cljq68fy000tl01qua57x9mxk",
+	};
 
 	onMount(() => {
 		map = new mapboxgl.Map({
 			container,
-			style,
+			style: styles.outdoors,
 			accessToken: import.meta.env.VITE_MAPBOX_ACCESS_TOKEN,
 			interactive: false,
 			maxZoom: 15,
@@ -85,7 +85,7 @@
 			source: "steps",
 			paint: {
 				"line-color": "#B42222",
-				"line-width": 2,
+				"line-width": 3.5,
 				"line-opacity": ["case", ["boolean", ["feature-state", "highlight"], false], 1, 0.25],
 			},
 			transition: {
@@ -96,11 +96,26 @@
 		});
 
 		map.addLayer({
+			id: "steps-fill",
+			type: "fill",
+			source: "steps",
+			paint: {
+				"fill-color": "#B42222",
+				"fill-opacity": ["case", ["boolean", ["feature-state", "highlight"], false], 0.25, 0],
+			},
+			transition: {
+				duration: 300,
+				delay: 0,
+			},
+			filter: ["==", "$type", "Polygon"],
+		});
+
+		map.addLayer({
 			id: "steps-points",
 			type: "circle",
 			source: "steps",
 			paint: {
-				"circle-radius": 6,
+				"circle-radius": 10,
 				"circle-color": "#B42222",
 				"circle-opacity": ["case", ["boolean", ["feature-state", "highlight"], false], 1, 0.25],
 			},
