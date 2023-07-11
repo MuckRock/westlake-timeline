@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "id": 3,
+      "id": 1,
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -443,7 +443,7 @@
       }
     },
     {
-      "id": 0,
+      "id": 5,
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -563,13 +563,13 @@
       "properties": {
         "title": "Uranium processing for Manhattan Project",
         "description": "<p><strong>Downtown St. Louis, 1942</strong></p>\n<p>During the rush to build the first atomic bomb, the U.S. government hired Mallinckrodt Chemical Works to process uranium at its downtown St. Louis plant. </p>\n<p>Uranium oxide from Mallinckrodt was used in the first sustained nuclear chain reaction in Chicago.</p>\n",
-        "zoom": 18,
+        "zoom": 19,
         "order": 2,
         "position": "left"
       }
     },
     {
-      "id": 1,
+      "id": 6,
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -579,16 +579,16 @@
               38.759353
             ],
             [
-              -90.350573,
-              38.758076
+              -90.361147,
+              38.758668
             ],
             [
-              -90.355986,
-              38.760275
+              -90.361154,
+              38.759323
             ],
             [
-              -90.360444,
-              38.759956
+              -90.361079,
+              38.759992
             ],
             [
               -90.369678,
@@ -611,7 +611,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 2,
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -649,7 +649,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 4,
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -858,7 +858,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 0,
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -960,7 +960,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 3,
       "type": "Feature",
       "geometry": {
         "coordinates": [
