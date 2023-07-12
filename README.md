@@ -1,6 +1,12 @@
 # Westlake Timeline
 
-**[Read the story](https://www.muckrock.com/news/archives/2023/jul/12/st-louis-landfill-toxic-superfund/)**. You can also [republish it](https://www.muckrock.com/news/archives/2023/jul/12/st-louis-landfill-toxic-superfund/republish/).
+**[Read the story](https://www.muckrock.com/news/archives/2023/jul/12/st-louis-landfill-toxic-superfund/)**. You can also [republish it](https://www.muckrock.com/news/archives/2023/jul/12/st-louis-landfill-toxic-superfund/republish/). Here's the embed code for the map itself:
+
+```html
+<div id="westlake-timeline"></div>
+<link href="https://muckrock.github.io/westlake-timeline/assets/style.css" rel="stylesheet" />
+<script src="https://muckrock.github.io/westlake-timeline/assets/main.js" type="module"></script>
+```
 
 This project shows a timeline and locations around St. Louis, Missouri, where nuclear waste was stored after World War II. It uses [Ulysses], [Mapbox] and [Svelte]. The map was designed and edited using [Felt].
 
